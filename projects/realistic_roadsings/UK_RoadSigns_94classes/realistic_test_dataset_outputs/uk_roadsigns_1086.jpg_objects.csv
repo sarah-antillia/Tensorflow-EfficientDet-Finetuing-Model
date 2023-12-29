@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1086.jpg,Articulated_vehicles_prohibited,0.98,498,231,741,475
+uk_roadsigns_1086.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.84,747,337,985,556
+uk_roadsigns_1086.jpg,Pedestrians_ahead,0.83,6,7,130,116
+uk_roadsigns_1086.jpg,End_of_20_miles_per_hour_zone,0.82,254,122,339,241
+uk_roadsigns_1086.jpg,Speed_camera,0.47,992,448,1110,551

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1012.jpg,Must_proceed_straight,0.81,499,230,698,432
+ca_roadsigns_1012.jpg,No_parking,0.58,746,337,852,450
+ca_roadsigns_1012.jpg,No_right_turn_or_straight_ahead,0.53,989,446,1190,652
+ca_roadsigns_1012.jpg,Stop_ahead,0.48,255,121,392,256

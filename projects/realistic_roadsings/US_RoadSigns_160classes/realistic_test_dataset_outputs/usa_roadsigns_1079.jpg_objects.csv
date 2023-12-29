@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1079.jpg,Road_slippery_when_wet,0.87,990,449,1179,642
+usa_roadsigns_1079.jpg,Pass_on_either_side,0.67,499,232,596,325
+usa_roadsigns_1079.jpg,Horizontal_alignment_intersection,0.63,260,120,445,310
+usa_roadsigns_1079.jpg,No_parking,0.59,8,8,106,106
+usa_roadsigns_1079.jpg,Chevron_alignment,0.54,741,340,818,435

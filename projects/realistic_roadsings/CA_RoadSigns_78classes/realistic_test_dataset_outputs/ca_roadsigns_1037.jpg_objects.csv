@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1037.jpg,Stop,0.96,11,10,145,147
+ca_roadsigns_1037.jpg,Bicycle_parking,0.94,991,448,1129,584
+ca_roadsigns_1037.jpg,Traffic_signal_ahead,0.74,499,233,702,435
+ca_roadsigns_1037.jpg,Advisory_speed_tab,0.51,745,339,811,407
+ca_roadsigns_1037.jpg,Skier_crossing,0.44,253,121,415,282

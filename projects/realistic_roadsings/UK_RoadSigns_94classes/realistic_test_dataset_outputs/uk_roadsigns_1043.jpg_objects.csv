@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1043.jpg,Riding_of_pedal_cycles_prohibited,0.92,745,332,984,579
+uk_roadsigns_1043.jpg,Part_time_traffic_signals_ahead,0.9,11,9,189,247
+uk_roadsigns_1043.jpg,Pedestrians_prohibited,0.89,253,118,377,243
+uk_roadsigns_1043.jpg,Minimum_speed_limit_30_miles_per_hour,0.85,499,228,621,353

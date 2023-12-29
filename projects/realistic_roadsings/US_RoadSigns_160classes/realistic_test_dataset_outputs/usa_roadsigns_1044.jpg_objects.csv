@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1044.jpg,Minimum_speed_limit_40,0.87,499,226,688,468
+usa_roadsigns_1044.jpg,Minimum_speed_limit_60km,0.81,745,338,902,577
+usa_roadsigns_1044.jpg,Yield_here_to_peds,0.8,255,120,351,215
+usa_roadsigns_1044.jpg,Bicycles_and_pedestrians,0.76,993,450,1087,545
+usa_roadsigns_1044.jpg,Speed_limit_50,0.56,9,10,88,102

@@ -1,0 +1,6 @@
+id, class, count
+1,Turn_only_lanes,1
+2,Keep_right,1
+3,End_detour,1
+4,No_straight_through,1
+5,Flagger_present,1

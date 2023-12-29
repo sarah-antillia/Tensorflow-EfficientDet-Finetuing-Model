@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1009.jpg,Turn_only_lanes,0.94,745,340,934,460
+usa_roadsigns_1009.jpg,Yield_here_to_peds,0.86,497,229,596,325
+usa_roadsigns_1009.jpg,Reverse_turn,0.85,255,122,448,314
+usa_roadsigns_1009.jpg,Truck crossing_2,0.74,9,8,107,106

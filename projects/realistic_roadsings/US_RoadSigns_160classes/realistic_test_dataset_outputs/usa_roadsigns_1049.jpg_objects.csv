@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1049.jpg,Deer_crossing,0.98,256,115,445,309
+usa_roadsigns_1049.jpg,Bike_lane_slippery_when_wet,0.78,994,452,1087,544
+usa_roadsigns_1049.jpg,Horizontal_alignment_intersection,0.66,743,338,839,434
+usa_roadsigns_1049.jpg,Added_lane_from_entering_roadway,0.59,498,228,595,326
+usa_roadsigns_1049.jpg,No_pedestrians,0.41,6,8,106,57

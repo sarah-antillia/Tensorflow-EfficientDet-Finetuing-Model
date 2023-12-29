@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1062.jpg,Steep_grade_percentage,0.96,987,448,1181,641
+usa_roadsigns_1062.jpg,Straight_ahead_only,0.83,258,117,416,308
+usa_roadsigns_1062.jpg,Single_lane_shift_left,0.72,502,233,593,323
+usa_roadsigns_1062.jpg,Straight_ahead_only,0.64,745,343,823,436
+usa_roadsigns_1062.jpg,No_rollerblading,0.61,10,9,203,204

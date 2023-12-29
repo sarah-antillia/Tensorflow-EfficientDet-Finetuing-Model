@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+2123.bmp,MultipleMyeloma,0.76,634,27,1119,511
+2123.bmp,MultipleMyeloma,0.72,1076,727,1464,1095

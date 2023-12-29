@@ -1,0 +1,15 @@
+Please download the <b>TFRecord-OTUSI-20230420.zip</b>
+from <a href="https://drive.google.com/file/d/1OqG-aB7FfB0dZkKB0aTMmwcWsStNTsSu/view?usp=sharing"><b>here</b></a>
+</p>
+ It contains the following eight categorized Ovarian Tumor Ultrasound Images,images and annotations(mask_images).<br>
+<pre>
+"Chocolate cyst"        = 0
+"Serous cystadenoma"    = 1
+"Teratoma"              = 2
+"Theca cell tumor"      = 3
+"Symple cyst"           = 4
+"Normal ovary"          = 5
+"Mucinous cystadenoma"  = 6
+"High grade serous"     = 7
+</pre>
+

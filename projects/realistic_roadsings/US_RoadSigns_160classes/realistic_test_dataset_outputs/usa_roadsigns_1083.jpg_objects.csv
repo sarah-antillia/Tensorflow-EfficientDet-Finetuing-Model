@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1083.jpg,No_pedestrians,0.98,9,8,199,107
+usa_roadsigns_1083.jpg,Tractor_farm_vehicle_crossing,0.75,252,115,353,218
+usa_roadsigns_1083.jpg,No_pedestrian_crossing,0.66,744,339,937,533
+usa_roadsigns_1083.jpg,Reserved_parking_wheelchair,0.66,502,227,563,323

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1069.jpg,Bump,0.96,9,11,109,105
+usa_roadsigns_1069.jpg,Runaway_vehicles_only,0.9,256,120,444,312
+usa_roadsigns_1069.jpg,Road_slippery_when_wet,0.78,497,229,597,327
+usa_roadsigns_1069.jpg,No_pedestrian_crossing,0.63,989,446,1180,642
+usa_roadsigns_1069.jpg,Work_zone_for_speed_limit,0.62,746,342,837,412

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1082.jpg,Truck_route_sign,0.83,255,122,446,264
+usa_roadsigns_1082.jpg,Weight_limit_10t,0.82,9,9,165,203
+usa_roadsigns_1082.jpg,Left_turn_yield_on_green,0.77,502,230,655,423
+usa_roadsigns_1082.jpg,Keep_left,0.77,746,340,898,533
+usa_roadsigns_1082.jpg,Except_right_turn,0.61,990,447,1178,593

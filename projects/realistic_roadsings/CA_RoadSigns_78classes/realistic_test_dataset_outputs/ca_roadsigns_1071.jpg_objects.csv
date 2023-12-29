@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1071.jpg,Disaster_response_route,0.96,9,10,212,213
+ca_roadsigns_1071.jpg,Bicycle_crossing_ahead,0.92,257,119,455,323
+ca_roadsigns_1071.jpg,Advisory_speed_tab,0.58,498,227,568,297
+ca_roadsigns_1071.jpg,Route_for_dangerous_goods_vehicles,0.47,990,449,1055,516

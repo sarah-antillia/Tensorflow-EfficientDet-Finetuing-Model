@@ -1,0 +1,15 @@
+You can download TRecord_USA_RoadSigns 160classes_V7.1 (2022/07/11) dataset from USA_RoadSigns_160classes_V7.1
+The downloaded train and valid dataset must be placed in ./projects/USA_RoadSigns folder.
+└─projects
+    └─USA_RoadSigns
+        ├─train
+        └─valid
+The train and valid folders contain the following tfrecord files:
+    └─USA_RoadSigns
+        ├─train
+        │  └─mixed_size_train.tfrecord
+        │  └─train.tfrecord
+        └─valid
+           └─mixed_size_valid.tfrecord
+           └─valid.tfrecord
+           

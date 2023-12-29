@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+jp_roadsigns_1077.jpg,Road_closed_to_all,0.99,988,446,1234,691
+jp_roadsigns_1077.jpg,Maximum_speed_limit30km,0.97,9,8,192,193
+jp_roadsigns_1077.jpg,Stop,0.95,747,340,869,446
+jp_roadsigns_1077.jpg,Maximum_speed_limit80km,0.6,253,118,347,213
+jp_roadsigns_1077.jpg,Maximum_speed_limit90km,0.53,497,228,591,322

@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+DSC05965.jpg,Stop,0.91,523,66,665,199
+DSC05965.jpg,School_crossing,0.91,539,205,659,345

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1079.jpg,National_speed_limit_applies,0.96,6,7,132,131
+uk_roadsigns_1079.jpg,Opening_or_swing_bridge,0.94,498,231,621,337
+uk_roadsigns_1079.jpg,One_way_traffic,0.91,253,120,416,358
+uk_roadsigns_1079.jpg,Stop_or_give_way_ahead,0.88,988,448,1111,555
+uk_roadsigns_1079.jpg,Tunnel,0.65,746,339,867,448

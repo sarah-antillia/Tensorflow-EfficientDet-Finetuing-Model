@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1095.jpg,Pedestrians_prohibited,0.97,10,7,254,250
+uk_roadsigns_1095.jpg,Roundabout,0.74,991,445,1233,663
+uk_roadsigns_1095.jpg,Uneven_road,0.65,747,338,987,557

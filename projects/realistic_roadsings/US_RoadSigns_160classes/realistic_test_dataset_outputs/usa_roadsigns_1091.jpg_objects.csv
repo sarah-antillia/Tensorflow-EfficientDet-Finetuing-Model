@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1091.jpg,Winding_road,0.84,9,10,201,204
+usa_roadsigns_1091.jpg,Truck_speed_limit_40,0.83,255,117,359,226
+usa_roadsigns_1091.jpg,No_parking_from_830am_to_530pm,0.8,747,338,876,533
+usa_roadsigns_1091.jpg,Workers_on_road,0.7,990,449,1084,545

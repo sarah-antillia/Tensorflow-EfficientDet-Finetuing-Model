@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1014.jpg,Cul_de_sac,0.94,10,8,147,146
+ca_roadsigns_1014.jpg,School_bus_stop_ahead,0.82,991,451,1192,651
+ca_roadsigns_1014.jpg,Slow,0.63,746,342,950,544
+ca_roadsigns_1014.jpg,Slow,0.55,502,232,637,367

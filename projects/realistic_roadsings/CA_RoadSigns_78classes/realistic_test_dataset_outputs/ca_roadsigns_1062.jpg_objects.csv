@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1062.jpg,Traffic_signal_ahead,0.76,499,226,637,365
+ca_roadsigns_1062.jpg,Road_surface_slippery_when_wet,0.71,253,120,394,259
+ca_roadsigns_1062.jpg,Shared_path_for_pedestrians_and_cyclists,0.45,986,446,1196,654
+ca_roadsigns_1062.jpg,Road_narrows_ahead,0.42,7,8,145,144

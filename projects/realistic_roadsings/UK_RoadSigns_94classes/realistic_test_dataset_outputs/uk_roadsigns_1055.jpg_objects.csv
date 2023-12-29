@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1055.jpg,Vehicles_carrying_explosives_prohibited,0.96,750,333,984,579
+uk_roadsigns_1055.jpg,Towed_caravans_prohibited,0.9,991,447,1111,570
+uk_roadsigns_1055.jpg,Slow_moving_military_vehicles_likely_to_be_in_or_crossing_the_road,0.67,10,11,250,225
+uk_roadsigns_1055.jpg,Traffic_signals_ahead,0.55,253,118,373,225

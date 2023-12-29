@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1065.jpg,Rough_pavement_ahead,0.8,8,10,146,144
+ca_roadsigns_1065.jpg,Passing_lane,0.75,252,120,457,322
+ca_roadsigns_1065.jpg,Maximum_speed_limit,0.67,745,338,853,475
+ca_roadsigns_1065.jpg,Chevron_marker,0.53,35,369,227,654

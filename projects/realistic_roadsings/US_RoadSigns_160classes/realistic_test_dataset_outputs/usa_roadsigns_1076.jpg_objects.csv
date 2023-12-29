@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1076.jpg,Bicycles_left_pedestrians_right,0.96,747,340,876,530
+usa_roadsigns_1076.jpg,Right_lane,0.7,987,448,1180,530
+usa_roadsigns_1076.jpg,Right_lane,0.69,501,231,691,306
+usa_roadsigns_1076.jpg,No_parking,0.5,8,9,104,106

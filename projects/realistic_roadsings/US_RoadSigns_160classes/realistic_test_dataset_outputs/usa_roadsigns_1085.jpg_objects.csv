@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1085.jpg,Golf_cart_crossing,0.82,743,340,938,537
+usa_roadsigns_1085.jpg,Truck_route_sign,0.76,9,9,201,156
+usa_roadsigns_1085.jpg,Bicycle_wrong_way,0.72,500,227,563,328
+usa_roadsigns_1085.jpg,Path_narrows,0.59,257,120,449,313
+usa_roadsigns_1085.jpg,All_way,0.41,992,453,1184,514

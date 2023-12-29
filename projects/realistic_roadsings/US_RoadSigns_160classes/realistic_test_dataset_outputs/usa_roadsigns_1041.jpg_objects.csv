@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1041.jpg,National_network_prohibited,0.97,991,445,1180,642
+usa_roadsigns_1041.jpg,Bike_lane,0.89,498,229,695,378
+usa_roadsigns_1041.jpg,No_parking_from_830am_to_530pm,0.66,255,120,316,215
+usa_roadsigns_1041.jpg,No_stopping_on_pavement,0.65,746,339,896,535
+usa_roadsigns_1041.jpg,Hairpin_curve,0.6,9,9,106,105

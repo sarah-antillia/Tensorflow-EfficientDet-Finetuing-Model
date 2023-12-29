@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1005.jpg,Uneven_surface,0.66,501,231,719,451

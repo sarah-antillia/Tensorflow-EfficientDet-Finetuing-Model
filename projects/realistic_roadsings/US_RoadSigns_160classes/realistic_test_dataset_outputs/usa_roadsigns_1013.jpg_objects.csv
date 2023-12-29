@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1013.jpg,Bicycle_wrong_way,0.83,744,334,877,534
+usa_roadsigns_1013.jpg,Night_speed_limit_45,0.82,258,120,470,338
+usa_roadsigns_1013.jpg,Tractor_farm_vehicle_crossing_2,0.76,498,228,598,329
+usa_roadsigns_1013.jpg,Tractor_farm_vehicle_crossing,0.74,986,446,1088,548

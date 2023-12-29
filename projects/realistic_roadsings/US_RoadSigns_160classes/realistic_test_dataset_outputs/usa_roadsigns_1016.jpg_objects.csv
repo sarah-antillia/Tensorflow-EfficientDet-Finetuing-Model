@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1016.jpg,Side_road_at_an_acute_angle,0.84,745,338,840,435
+usa_roadsigns_1016.jpg,Parking_with_time_restrictions,0.74,7,7,74,107
+usa_roadsigns_1016.jpg,Keep_left,0.65,256,121,331,216
+usa_roadsigns_1016.jpg,Truck_crossing,0.62,988,449,1086,544
+usa_roadsigns_1016.jpg,No_straight_through,0.44,500,231,594,324

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1099.jpg,Minimum_speed_limit_40,0.97,9,9,206,251
+usa_roadsigns_1099.jpg,Stop_here_when_flashing,0.75,991,449,1066,547
+usa_roadsigns_1099.jpg,No_train_horn_warning,0.65,498,226,690,422
+usa_roadsigns_1099.jpg,Do_not_enter,0.53,742,338,937,531
+usa_roadsigns_1099.jpg,No_left_turn,0.5,252,118,348,216

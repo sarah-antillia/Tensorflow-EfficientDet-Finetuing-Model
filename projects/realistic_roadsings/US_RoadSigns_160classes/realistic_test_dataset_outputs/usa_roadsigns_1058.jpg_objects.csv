@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1058.jpg,Do_not_drive_on_tracks,0.86,498,229,689,421
+usa_roadsigns_1058.jpg,No_left_turn_across_tracks,0.76,745,337,820,433
+usa_roadsigns_1058.jpg,Hazardous_material_route,0.6,990,451,1183,644
+usa_roadsigns_1058.jpg,No_straight_through,0.47,9,9,203,203
+usa_roadsigns_1058.jpg,No_parking_on_pavement,0.4,255,123,332,216

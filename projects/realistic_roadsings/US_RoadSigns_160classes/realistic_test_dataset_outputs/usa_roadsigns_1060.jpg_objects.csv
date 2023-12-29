@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1060.jpg,No_parking_from_830am_to_530pm_2,0.8,11,6,136,201
+usa_roadsigns_1060.jpg,No_left_turn_across_tracks,0.79,744,338,820,434
+usa_roadsigns_1060.jpg,Emergency_signal,0.73,255,121,447,246

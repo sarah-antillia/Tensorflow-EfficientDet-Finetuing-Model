@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1065.jpg,Bicycle_wrong_way,0.9,988,448,1118,643
+usa_roadsigns_1065.jpg,Parking_with_time_restrictions,0.76,10,10,72,106
+usa_roadsigns_1065.jpg,Tractor_farm_vehicle_crossing_2,0.64,256,119,350,217
+usa_roadsigns_1065.jpg,No_stopping_on_pavement,0.59,748,336,901,533
+usa_roadsigns_1065.jpg,No_rollerblading,0.58,498,229,694,425

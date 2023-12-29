@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1060.jpg,Route_for_dangerous_goods_vehicles,0.9,748,339,949,542
+ca_roadsigns_1060.jpg,Hairpin_curve_ahead,0.88,13,8,211,212
+ca_roadsigns_1060.jpg,No_bicycles,0.59,989,448,1127,585

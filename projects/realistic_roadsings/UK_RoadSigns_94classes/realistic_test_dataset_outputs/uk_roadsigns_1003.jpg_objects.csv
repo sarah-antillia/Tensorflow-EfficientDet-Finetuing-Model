@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1003.jpg,No_u_turns_for_vehicular_traffic,0.98,744,336,988,584
+uk_roadsigns_1003.jpg,No_right_turn,0.98,251,117,497,361
+uk_roadsigns_1003.jpg,Part_time_traffic_signals_ahead,0.87,10,10,194,256
+uk_roadsigns_1003.jpg,No_entry_for_vehicular_traffic,0.82,990,449,1112,571

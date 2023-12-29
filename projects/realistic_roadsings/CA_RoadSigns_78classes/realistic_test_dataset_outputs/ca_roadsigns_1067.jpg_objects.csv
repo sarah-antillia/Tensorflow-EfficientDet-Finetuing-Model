@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1067.jpg,Approaching_an_intersection,0.84,256,118,392,257
+ca_roadsigns_1067.jpg,Keep_left,0.84,991,451,1155,654
+ca_roadsigns_1067.jpg,Motorists_must_not_pass_cyclists,0.72,744,339,950,543
+ca_roadsigns_1067.jpg,Truck_route,0.64,499,231,638,367

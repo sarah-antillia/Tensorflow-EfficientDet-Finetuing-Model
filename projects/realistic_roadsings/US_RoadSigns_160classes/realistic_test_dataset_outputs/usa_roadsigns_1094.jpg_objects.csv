@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1094.jpg,Be_prepared_to_stop,0.94,9,10,106,107
+usa_roadsigns_1094.jpg,Workers_on_road,0.83,744,341,937,535
+usa_roadsigns_1094.jpg,Ramp_narrows,0.83,254,115,437,317
+usa_roadsigns_1094.jpg,Pass_on_either_side,0.78,499,225,692,424

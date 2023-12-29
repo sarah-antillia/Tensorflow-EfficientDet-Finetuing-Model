@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1061.jpg,Railway_crossing_ahead,0.83,254,121,458,325
+ca_roadsigns_1061.jpg,No_left_turn,0.74,744,340,854,448
+ca_roadsigns_1061.jpg,Slow,0.51,9,9,146,145
+ca_roadsigns_1061.jpg,Stop_ahead,0.42,497,229,632,365

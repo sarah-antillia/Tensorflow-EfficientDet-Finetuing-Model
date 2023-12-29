@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1010.jpg,Bump,0.97,499,230,694,425
+usa_roadsigns_1010.jpg,Keep_right,0.9,255,118,412,313
+usa_roadsigns_1010.jpg,No_stopping_on_pavement,0.73,991,448,1144,643
+usa_roadsigns_1010.jpg,Right_turn_or_straight,0.63,745,340,906,538
+usa_roadsigns_1010.jpg,Wrong_way,0.41,8,9,105,75

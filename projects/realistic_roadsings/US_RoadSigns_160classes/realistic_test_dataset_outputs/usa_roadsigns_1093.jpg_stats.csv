@@ -1,0 +1,6 @@
+id, class, count
+1,Railroad_crossing,1
+2,Skewed_railroad_crossing,1
+3,Reverse_turn,1
+4,Parking_with_time_restrictions,1
+5,No_unauthorized_vehicles,1

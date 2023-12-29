@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1047.jpg,Flagger_present,0.88,256,117,354,218
+usa_roadsigns_1047.jpg,Single_lane_shift_left,0.8,745,340,842,435
+usa_roadsigns_1047.jpg,National_network_route,0.78,499,226,597,327
+usa_roadsigns_1047.jpg,Horizontal_alignment_intersection,0.68,11,10,108,106
+usa_roadsigns_1047.jpg,Double_side_roads,0.5,987,449,1085,546

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1031.jpg,Chevron_alignment,0.96,744,340,890,535
+usa_roadsigns_1031.jpg,Bike_lane,0.95,10,10,199,151
+usa_roadsigns_1031.jpg,Speed_limit_80km,0.95,501,226,661,466
+usa_roadsigns_1031.jpg,No_bicycles,0.9,256,118,445,313

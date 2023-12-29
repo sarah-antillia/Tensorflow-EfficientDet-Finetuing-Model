@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1046.jpg,Railroad_intersection_warning,0.84,6,9,106,106
+usa_roadsigns_1046.jpg,No_horseback_riding,0.81,500,232,693,423
+usa_roadsigns_1046.jpg,Left_turn_yield_on_green,0.72,746,339,901,535
+usa_roadsigns_1046.jpg,Reverse_curve,0.58,991,450,1184,645
+usa_roadsigns_1046.jpg,Gusty_winds_area,0.44,255,118,349,216

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1089.jpg,No_turns,0.86,11,11,199,203
+usa_roadsigns_1089.jpg,Loading_zone,0.81,257,123,449,265
+usa_roadsigns_1089.jpg,Emergency_signal,0.79,499,231,694,360
+usa_roadsigns_1089.jpg,Do_not_pass_stopped_trains,0.75,991,449,1146,644
+usa_roadsigns_1089.jpg,Dead_end,0.6,747,343,934,536

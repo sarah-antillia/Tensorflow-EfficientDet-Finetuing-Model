@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1023.jpg,Snowmobile,0.95,255,119,447,313
+usa_roadsigns_1023.jpg,No_horseback_riding,0.88,10,11,199,203
+usa_roadsigns_1023.jpg,Merging_traffic,0.8,743,337,934,532
+usa_roadsigns_1023.jpg,No_standing_any_time,0.46,500,230,564,325
+usa_roadsigns_1023.jpg,Truck_crossing,0.45,989,447,1088,545

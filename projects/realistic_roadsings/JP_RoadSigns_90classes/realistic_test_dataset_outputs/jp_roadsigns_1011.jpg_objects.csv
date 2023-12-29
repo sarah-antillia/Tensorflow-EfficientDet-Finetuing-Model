@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+jp_roadsigns_1011.jpg,Left_curve,0.99,988,448,1113,572
+jp_roadsigns_1011.jpg,Left_lane_ends,0.99,9,10,131,130
+jp_roadsigns_1011.jpg,Parking_allowed,0.99,500,228,740,472
+jp_roadsigns_1011.jpg,Falling_rocks,0.98,254,118,373,239
+jp_roadsigns_1011.jpg,No_stopping,0.9,742,337,867,462

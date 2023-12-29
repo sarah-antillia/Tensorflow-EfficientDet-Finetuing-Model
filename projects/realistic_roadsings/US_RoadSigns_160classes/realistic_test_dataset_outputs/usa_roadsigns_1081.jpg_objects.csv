@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1081.jpg,Wait_on_stop,0.9,252,117,407,311
+usa_roadsigns_1081.jpg,National_network_route,0.89,7,11,107,108
+usa_roadsigns_1081.jpg,Road_slippery_when_wet,0.83,501,231,692,423
+usa_roadsigns_1081.jpg,Wait_on_stop,0.47,992,452,1064,544

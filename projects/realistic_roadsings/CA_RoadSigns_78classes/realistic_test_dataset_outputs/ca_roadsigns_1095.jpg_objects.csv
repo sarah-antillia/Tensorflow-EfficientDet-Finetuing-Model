@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1095.jpg,Cyclists_must_dismount_their_bikes_and_walk,0.94,10,9,145,145
+ca_roadsigns_1095.jpg,Truck_route,0.76,498,229,704,432
+ca_roadsigns_1095.jpg,Yield_sign_ahead,0.48,253,119,386,256

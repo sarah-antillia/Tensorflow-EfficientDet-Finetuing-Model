@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1057.jpg,Chevron_alignment,0.97,498,230,648,422
+usa_roadsigns_1057.jpg,No_train_horn_warning,0.63,10,7,198,200
+usa_roadsigns_1057.jpg,No_parking_from_830am_to_530pm_2,0.59,989,450,1085,548
+usa_roadsigns_1057.jpg,Two_way_traffic,0.55,743,337,840,436
+usa_roadsigns_1057.jpg,No_train_horn_warning,0.51,254,119,351,216

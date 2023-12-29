@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1055.jpg,Parking_with_time_restrictions,0.87,993,449,1118,637
+usa_roadsigns_1055.jpg,Minimum_speed_limit_40,0.86,500,223,689,469
+usa_roadsigns_1055.jpg,Keep_right,0.86,254,122,408,314
+usa_roadsigns_1055.jpg,School_speed_limit_ahead,0.58,746,341,839,437
+usa_roadsigns_1055.jpg,Center_lane,0.46,6,8,106,51

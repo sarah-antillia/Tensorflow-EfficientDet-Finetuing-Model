@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1092.jpg,Single_lane_shift_left,0.77,9,9,106,103
+usa_roadsigns_1092.jpg,Yield_here_to_peds,0.76,990,448,1085,543
+usa_roadsigns_1092.jpg,Night_speed_limit_45,0.7,256,120,359,228
+usa_roadsigns_1092.jpg,Truck_crossing,0.63,502,229,595,325
+usa_roadsigns_1092.jpg,Curve,0.46,744,341,840,435

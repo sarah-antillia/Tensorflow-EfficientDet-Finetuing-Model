@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1025.jpg,Curve,0.94,498,229,690,422
+usa_roadsigns_1025.jpg,Reverse_curve,0.61,991,450,1184,645
+usa_roadsigns_1025.jpg,Pass_on_either_side,0.6,9,10,105,104
+usa_roadsigns_1025.jpg,Two_direction,0.47,255,118,349,169

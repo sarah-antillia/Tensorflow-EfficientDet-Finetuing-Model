@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1021.jpg,Road_closed,0.88,256,117,365,228
+ca_roadsigns_1021.jpg,Road_narrows_ahead,0.49,10,8,211,212

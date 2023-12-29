@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1071.jpg,Steep_grade_percentage,0.95,500,229,693,422
+usa_roadsigns_1071.jpg,Double_side_roads,0.68,251,117,352,219
+usa_roadsigns_1071.jpg,Work_zone_for_speed_limit,0.57,990,451,1086,521
+usa_roadsigns_1071.jpg,No_parking_from_830am_to_530pm_2,0.5,8,8,73,103

@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1086.jpg,Curve,0.98,9,10,202,204
+usa_roadsigns_1086.jpg,Truck_rollover_warning,0.95,990,450,1180,644
+usa_roadsigns_1086.jpg,Right_lane,0.85,501,230,690,306

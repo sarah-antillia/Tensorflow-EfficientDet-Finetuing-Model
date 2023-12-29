@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1066.jpg,Snowmobile,0.97,11,8,200,199
+usa_roadsigns_1066.jpg,Offset_roads,0.89,253,118,449,316
+usa_roadsigns_1066.jpg,No_parking_loading_zone,0.74,989,444,1117,642
+usa_roadsigns_1066.jpg,End_detour,0.56,501,227,690,373
+usa_roadsigns_1066.jpg,School_bus_turn_ahead,0.47,744,337,935,533

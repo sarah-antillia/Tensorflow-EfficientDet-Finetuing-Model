@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+DSC06850.jpg,Go_straight,0.9,1029,174,1182,342
+DSC06850.jpg,One_way_to_the_right,0.69,81,344,191,416

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1077.jpg,All_way,0.94,13,10,200,72
+usa_roadsigns_1077.jpg,Railroad_crossing,0.83,498,228,597,324
+usa_roadsigns_1077.jpg,No_parking_loading_zone,0.77,742,334,874,534
+usa_roadsigns_1077.jpg,Two_way_traffic,0.67,254,117,348,216
+usa_roadsigns_1077.jpg,Truck_crossing,0.48,992,448,1086,545

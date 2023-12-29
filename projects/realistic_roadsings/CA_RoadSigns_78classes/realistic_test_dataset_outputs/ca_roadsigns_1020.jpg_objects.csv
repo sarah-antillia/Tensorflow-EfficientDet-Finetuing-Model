@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1020.jpg,Bike_lane,0.87,503,228,661,431
+ca_roadsigns_1020.jpg,Approaching_an_intersection,0.83,254,119,389,255
+ca_roadsigns_1020.jpg,Maximum_speed_limit,0.72,988,449,1098,586
+ca_roadsigns_1020.jpg,Road_surface_slippery_when_wet,0.69,9,11,217,217

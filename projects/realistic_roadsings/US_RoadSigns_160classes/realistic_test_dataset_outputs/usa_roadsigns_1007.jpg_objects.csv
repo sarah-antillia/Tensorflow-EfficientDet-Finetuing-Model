@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1007.jpg,T_roads,0.94,745,341,841,435
+usa_roadsigns_1007.jpg,Truck_crossing,0.81,988,450,1185,645
+usa_roadsigns_1007.jpg,No_left_or_u_turn,0.71,501,229,694,423
+usa_roadsigns_1007.jpg,Hidden_driveway,0.58,9,10,202,203

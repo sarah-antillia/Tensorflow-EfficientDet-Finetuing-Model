@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+jp_roadsigns_1016.jpg,No_overtaking,0.99,8,7,250,249
+jp_roadsigns_1016.jpg,No_vehicles_higher_than3.3ms,0.99,255,116,499,365
+jp_roadsigns_1016.jpg,Sound_horn,0.99,745,334,986,580
+jp_roadsigns_1016.jpg,No_large_trucks,0.99,992,447,1113,571
+jp_roadsigns_1016.jpg,One_way,0.8,498,231,569,349

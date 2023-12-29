@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1063.jpg,Truck crossing_2,0.9,745,339,936,533
+usa_roadsigns_1063.jpg,Added_lane,0.85,987,449,1184,646
+usa_roadsigns_1063.jpg,Night_speed_limit_45,0.82,256,119,358,228
+usa_roadsigns_1063.jpg,No_left_turn,0.73,500,228,692,423
+usa_roadsigns_1063.jpg,Hidden_driveway,0.44,7,8,106,105

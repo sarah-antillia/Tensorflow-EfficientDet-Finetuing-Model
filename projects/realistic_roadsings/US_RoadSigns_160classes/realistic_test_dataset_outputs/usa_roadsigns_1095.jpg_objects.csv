@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1095.jpg,No_pedestrians,0.98,257,121,447,217
+usa_roadsigns_1095.jpg,Side_road_at_a_perpendicular_angle,0.96,12,10,197,201
+usa_roadsigns_1095.jpg,Hill_bicycle,0.96,991,448,1180,639
+usa_roadsigns_1095.jpg,Reserved_parking_wheelchair,0.61,501,229,562,324
+usa_roadsigns_1095.jpg,Stop_here_for_pedestrians,0.57,742,340,814,436

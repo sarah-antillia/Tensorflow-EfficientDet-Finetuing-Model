@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1082.jpg,Children,0.95,13,10,227,202
+it_roadsigns_1082.jpg,Stop_and_give_way,0.81,989,448,1209,668
+it_roadsigns_1082.jpg,Derestriction,0.64,745,337,819,410
+it_roadsigns_1082.jpg,Maximum_weight_in_tonnes,0.44,499,228,573,302

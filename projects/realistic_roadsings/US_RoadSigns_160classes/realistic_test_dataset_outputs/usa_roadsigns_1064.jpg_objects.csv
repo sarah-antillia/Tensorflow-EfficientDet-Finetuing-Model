@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1064.jpg,Turn_only_lanes,0.91,256,121,446,242
+usa_roadsigns_1064.jpg,No_parking_loading_zone,0.76,9,7,134,200
+usa_roadsigns_1064.jpg,No_standing_any_time,0.52,500,231,566,325
+usa_roadsigns_1064.jpg,Truck_crossing,0.41,992,448,1086,544

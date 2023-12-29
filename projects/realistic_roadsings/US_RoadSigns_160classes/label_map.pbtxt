@@ -1,0 +1,800 @@
+item {
+  display_name: '270_degree_loop'
+  id: 1
+  name: '270_degree_loop'
+}
+item {
+  display_name: 'Added_lane'
+  id: 2
+  name: 'Added_lane'
+}
+item {
+  display_name: 'Added_lane_from_entering_roadway'
+  id: 3
+  name: 'Added_lane_from_entering_roadway'
+}
+item {
+  display_name: 'All_way'
+  id: 4
+  name: 'All_way'
+}
+item {
+  display_name: 'Be_prepared_to_stop'
+  id: 5
+  name: 'Be_prepared_to_stop'
+}
+item {
+  display_name: 'Bicycle_wrong_way'
+  id: 6
+  name: 'Bicycle_wrong_way'
+}
+item {
+  display_name: 'Bicycles'
+  id: 7
+  name: 'Bicycles'
+}
+item {
+  display_name: 'Bicycles_and_pedestrians'
+  id: 8
+  name: 'Bicycles_and_pedestrians'
+}
+item {
+  display_name: 'Bicycles_left_pedestrians_right'
+  id: 9
+  name: 'Bicycles_left_pedestrians_right'
+}
+item {
+  display_name: 'Bike_lane'
+  id: 10
+  name: 'Bike_lane'
+}
+item {
+  display_name: 'Bike_lane_slippery_when_wet'
+  id: 11
+  name: 'Bike_lane_slippery_when_wet'
+}
+item {
+  display_name: 'Bump'
+  id: 12
+  name: 'Bump'
+}
+item {
+  display_name: 'Bus_lane'
+  id: 13
+  name: 'Bus_lane'
+}
+item {
+  display_name: 'Center_lane'
+  id: 14
+  name: 'Center_lane'
+}
+item {
+  display_name: 'Chevron_alignment'
+  id: 15
+  name: 'Chevron_alignment'
+}
+item {
+  display_name: 'Circular_intersection_warning'
+  id: 16
+  name: 'Circular_intersection_warning'
+}
+item {
+  display_name: 'Cross_roads'
+  id: 17
+  name: 'Cross_roads'
+}
+item {
+  display_name: 'Curve'
+  id: 18
+  name: 'Curve'
+}
+item {
+  display_name: 'Dead_end'
+  id: 19
+  name: 'Dead_end'
+}
+item {
+  display_name: 'Deer_crossing'
+  id: 20
+  name: 'Deer_crossing'
+}
+item {
+  display_name: 'Detour'
+  id: 21
+  name: 'Detour'
+}
+item {
+  display_name: 'Detour_right'
+  id: 22
+  name: 'Detour_right'
+}
+item {
+  display_name: 'Dip'
+  id: 23
+  name: 'Dip'
+}
+item {
+  display_name: 'Do_not_drive_on_tracks'
+  id: 24
+  name: 'Do_not_drive_on_tracks'
+}
+item {
+  display_name: 'Do_not_enter'
+  id: 25
+  name: 'Do_not_enter'
+}
+item {
+  display_name: 'Do_not_pass_stopped_trains'
+  id: 26
+  name: 'Do_not_pass_stopped_trains'
+}
+item {
+  display_name: 'Double_side_roads'
+  id: 27
+  name: 'Double_side_roads'
+}
+item {
+  display_name: 'Emergency_signal'
+  id: 28
+  name: 'Emergency_signal'
+}
+item {
+  display_name: 'End_detour'
+  id: 29
+  name: 'End_detour'
+}
+item {
+  display_name: 'Except_right_turn'
+  id: 30
+  name: 'Except_right_turn'
+}
+item {
+  display_name: 'Fallen_rocks'
+  id: 31
+  name: 'Fallen_rocks'
+}
+item {
+  display_name: 'Flagger_present'
+  id: 32
+  name: 'Flagger_present'
+}
+item {
+  display_name: 'Fog_area'
+  id: 33
+  name: 'Fog_area'
+}
+item {
+  display_name: 'Go_on_slow'
+  id: 34
+  name: 'Go_on_slow'
+}
+item {
+  display_name: 'Golf_cart_crossing'
+  id: 35
+  name: 'Golf_cart_crossing'
+}
+item {
+  display_name: 'Gusty_winds_area'
+  id: 36
+  name: 'Gusty_winds_area'
+}
+item {
+  display_name: 'Hairpin_curve'
+  id: 37
+  name: 'Hairpin_curve'
+}
+item {
+  display_name: 'Hazardous_material_prohibited'
+  id: 38
+  name: 'Hazardous_material_prohibited'
+}
+item {
+  display_name: 'Hazardous_material_route'
+  id: 39
+  name: 'Hazardous_material_route'
+}
+item {
+  display_name: 'Hidden_driveway'
+  id: 40
+  name: 'Hidden_driveway'
+}
+item {
+  display_name: 'Hill_bicycle'
+  id: 41
+  name: 'Hill_bicycle'
+}
+item {
+  display_name: 'Horizontal_alignment_intersection'
+  id: 42
+  name: 'Horizontal_alignment_intersection'
+}
+item {
+  display_name: 'Horse_drawn_vehicle_ahead'
+  id: 43
+  name: 'Horse_drawn_vehicle_ahead'
+}
+item {
+  display_name: 'Keep_left'
+  id: 44
+  name: 'Keep_left'
+}
+item {
+  display_name: 'Keep_left_2'
+  id: 45
+  name: 'Keep_left_2'
+}
+item {
+  display_name: 'Keep_right'
+  id: 46
+  name: 'Keep_right'
+}
+item {
+  display_name: 'Keep_right_2'
+  id: 47
+  name: 'Keep_right_2'
+}
+item {
+  display_name: 'Lane_ends'
+  id: 48
+  name: 'Lane_ends'
+}
+item {
+  display_name: 'Left_lane'
+  id: 49
+  name: 'Left_lane'
+}
+item {
+  display_name: 'Left_turn_only'
+  id: 50
+  name: 'Left_turn_only'
+}
+item {
+  display_name: 'Left_turn_or_straight'
+  id: 51
+  name: 'Left_turn_or_straight'
+}
+item {
+  display_name: 'Left_turn_yield_on_green'
+  id: 52
+  name: 'Left_turn_yield_on_green'
+}
+item {
+  display_name: 'Loading_zone'
+  id: 53
+  name: 'Loading_zone'
+}
+item {
+  display_name: 'Low_clearance'
+  id: 54
+  name: 'Low_clearance'
+}
+item {
+  display_name: 'Low_ground_clearance_railroad_crossing'
+  id: 55
+  name: 'Low_ground_clearance_railroad_crossing'
+}
+item {
+  display_name: 'Merge'
+  id: 56
+  name: 'Merge'
+}
+item {
+  display_name: 'Merging_traffic'
+  id: 57
+  name: 'Merging_traffic'
+}
+item {
+  display_name: 'Metric_low_clearance'
+  id: 58
+  name: 'Metric_low_clearance'
+}
+item {
+  display_name: 'Minimum_speed_limit_40'
+  id: 59
+  name: 'Minimum_speed_limit_40'
+}
+item {
+  display_name: 'Minimum_speed_limit_60km'
+  id: 60
+  name: 'Minimum_speed_limit_60km'
+}
+item {
+  display_name: 'Narrow_bridge'
+  id: 61
+  name: 'Narrow_bridge'
+}
+item {
+  display_name: 'National_network_prohibited'
+  id: 62
+  name: 'National_network_prohibited'
+}
+item {
+  display_name: 'National_network_route'
+  id: 63
+  name: 'National_network_route'
+}
+item {
+  display_name: 'Night_speed_limit_45'
+  id: 64
+  name: 'Night_speed_limit_45'
+}
+item {
+  display_name: 'Night_speed_limit_70km'
+  id: 65
+  name: 'Night_speed_limit_70km'
+}
+item {
+  display_name: 'No_bicycles'
+  id: 66
+  name: 'No_bicycles'
+}
+item {
+  display_name: 'No_entre'
+  id: 67
+  name: 'No_entre'
+}
+item {
+  display_name: 'No_hitch_hiking'
+  id: 68
+  name: 'No_hitch_hiking'
+}
+item {
+  display_name: 'No_horseback_riding'
+  id: 69
+  name: 'No_horseback_riding'
+}
+item {
+  display_name: 'No_large_trucks'
+  id: 70
+  name: 'No_large_trucks'
+}
+item {
+  display_name: 'No_left_or_u_turn'
+  id: 71
+  name: 'No_left_or_u_turn'
+}
+item {
+  display_name: 'No_left_turn'
+  id: 72
+  name: 'No_left_turn'
+}
+item {
+  display_name: 'No_left_turn_across_tracks'
+  id: 73
+  name: 'No_left_turn_across_tracks'
+}
+item {
+  display_name: 'No_outlet'
+  id: 74
+  name: 'No_outlet'
+}
+item {
+  display_name: 'No_parking'
+  id: 75
+  name: 'No_parking'
+}
+item {
+  display_name: 'No_parking_any_time'
+  id: 76
+  name: 'No_parking_any_time'
+}
+item {
+  display_name: 'No_parking_bus_stop'
+  id: 77
+  name: 'No_parking_bus_stop'
+}
+item {
+  display_name: 'No_parking_from_830am_to_530pm'
+  id: 78
+  name: 'No_parking_from_830am_to_530pm'
+}
+item {
+  display_name: 'No_parking_from_830am_to_530pm_2'
+  id: 79
+  name: 'No_parking_from_830am_to_530pm_2'
+}
+item {
+  display_name: 'No_parking_in_fire_lane'
+  id: 80
+  name: 'No_parking_in_fire_lane'
+}
+item {
+  display_name: 'No_parking_loading_zone'
+  id: 81
+  name: 'No_parking_loading_zone'
+}
+item {
+  display_name: 'No_parking_on_pavement'
+  id: 82
+  name: 'No_parking_on_pavement'
+}
+item {
+  display_name: 'No_pedestrian_crossing'
+  id: 83
+  name: 'No_pedestrian_crossing'
+}
+item {
+  display_name: 'No_pedestrians'
+  id: 84
+  name: 'No_pedestrians'
+}
+item {
+  display_name: 'No_right_turn'
+  id: 85
+  name: 'No_right_turn'
+}
+item {
+  display_name: 'No_rollerblading'
+  id: 86
+  name: 'No_rollerblading'
+}
+item {
+  display_name: 'No_standing_any_time'
+  id: 87
+  name: 'No_standing_any_time'
+}
+item {
+  display_name: 'No_stopping_on_pavement'
+  id: 88
+  name: 'No_stopping_on_pavement'
+}
+item {
+  display_name: 'No_straight_through'
+  id: 89
+  name: 'No_straight_through'
+}
+item {
+  display_name: 'No_train_horn_warning'
+  id: 90
+  name: 'No_train_horn_warning'
+}
+item {
+  display_name: 'No_turns'
+  id: 91
+  name: 'No_turns'
+}
+item {
+  display_name: 'No_u_turn'
+  id: 92
+  name: 'No_u_turn'
+}
+item {
+  display_name: 'No_unauthorized_vehicles'
+  id: 93
+  name: 'No_unauthorized_vehicles'
+}
+item {
+  display_name: 'Offset_roads'
+  id: 94
+  name: 'Offset_roads'
+}
+item {
+  display_name: 'One_direction'
+  id: 95
+  name: 'One_direction'
+}
+item {
+  display_name: 'One_way'
+  id: 96
+  name: 'One_way'
+}
+item {
+  display_name: 'Parking_with_time_restrictions'
+  id: 97
+  name: 'Parking_with_time_restrictions'
+}
+item {
+  display_name: 'Pass_on_either_side'
+  id: 98
+  name: 'Pass_on_either_side'
+}
+item {
+  display_name: 'Pass_road'
+  id: 99
+  name: 'Pass_road'
+}
+item {
+  display_name: 'Path_narrows'
+  id: 100
+  name: 'Path_narrows'
+}
+item {
+  display_name: 'Pedestrian_crossing'
+  id: 101
+  name: 'Pedestrian_crossing'
+}
+item {
+  display_name: 'Railroad_crossing'
+  id: 102
+  name: 'Railroad_crossing'
+}
+item {
+  display_name: 'Railroad_crossing_ahead'
+  id: 103
+  name: 'Railroad_crossing_ahead'
+}
+item {
+  display_name: 'Railroad_intersection_warning'
+  id: 104
+  name: 'Railroad_intersection_warning'
+}
+item {
+  display_name: 'Ramp_narrows'
+  id: 105
+  name: 'Ramp_narrows'
+}
+item {
+  display_name: 'Reserved_parking_wheelchair'
+  id: 106
+  name: 'Reserved_parking_wheelchair'
+}
+item {
+  display_name: 'Reverse_curve'
+  id: 107
+  name: 'Reverse_curve'
+}
+item {
+  display_name: 'Reverse_turn'
+  id: 108
+  name: 'Reverse_turn'
+}
+item {
+  display_name: 'Right_lane'
+  id: 109
+  name: 'Right_lane'
+}
+item {
+  display_name: 'Right_turn_only'
+  id: 110
+  name: 'Right_turn_only'
+}
+item {
+  display_name: 'Right_turn_or_straight'
+  id: 111
+  name: 'Right_turn_or_straight'
+}
+item {
+  display_name: 'Road_closed'
+  id: 112
+  name: 'Road_closed'
+}
+item {
+  display_name: 'Road_closed_ahead'
+  id: 113
+  name: 'Road_closed_ahead'
+}
+item {
+  display_name: 'Road_narrows'
+  id: 114
+  name: 'Road_narrows'
+}
+item {
+  display_name: 'Road_slippery_when_wet'
+  id: 115
+  name: 'Road_slippery_when_wet'
+}
+item {
+  display_name: 'Rough_road'
+  id: 116
+  name: 'Rough_road'
+}
+item {
+  display_name: 'Runaway_vehicles_only'
+  id: 117
+  name: 'Runaway_vehicles_only'
+}
+item {
+  display_name: 'School'
+  id: 118
+  name: 'School'
+}
+item {
+  display_name: 'School_advance'
+  id: 119
+  name: 'School_advance'
+}
+item {
+  display_name: 'School_bus_stop_ahead'
+  id: 120
+  name: 'School_bus_stop_ahead'
+}
+item {
+  display_name: 'School_bus_turn_ahead'
+  id: 121
+  name: 'School_bus_turn_ahead'
+}
+item {
+  display_name: 'School_speed_limit_ahead'
+  id: 122
+  name: 'School_speed_limit_ahead'
+}
+item {
+  display_name: 'Sharp_turn'
+  id: 123
+  name: 'Sharp_turn'
+}
+item {
+  display_name: 'Side_road_at_a_perpendicular_angle'
+  id: 124
+  name: 'Side_road_at_a_perpendicular_angle'
+}
+item {
+  display_name: 'Side_road_at_an_acute_angle'
+  id: 125
+  name: 'Side_road_at_an_acute_angle'
+}
+item {
+  display_name: 'Single_lane_shift_left'
+  id: 126
+  name: 'Single_lane_shift_left'
+}
+item {
+  display_name: 'Skewed_railroad_crossing'
+  id: 127
+  name: 'Skewed_railroad_crossing'
+}
+item {
+  display_name: 'Snowmobile'
+  id: 128
+  name: 'Snowmobile'
+}
+item {
+  display_name: 'Speed_limit_50'
+  id: 129
+  name: 'Speed_limit_50'
+}
+item {
+  display_name: 'Speed_limit_80km'
+  id: 130
+  name: 'Speed_limit_80km'
+}
+item {
+  display_name: 'Stay_in_lane'
+  id: 131
+  name: 'Stay_in_lane'
+}
+item {
+  display_name: 'Steep_grade'
+  id: 132
+  name: 'Steep_grade'
+}
+item {
+  display_name: 'Steep_grade_percentage'
+  id: 133
+  name: 'Steep_grade_percentage'
+}
+item {
+  display_name: 'Stop'
+  id: 134
+  name: 'Stop'
+}
+item {
+  display_name: 'Stop_here_for_pedestrians'
+  id: 135
+  name: 'Stop_here_for_pedestrians'
+}
+item {
+  display_name: 'Stop_here_for_peds'
+  id: 136
+  name: 'Stop_here_for_peds'
+}
+item {
+  display_name: 'Stop_here_when_flashing'
+  id: 137
+  name: 'Stop_here_when_flashing'
+}
+item {
+  display_name: 'Straight_ahead_only'
+  id: 138
+  name: 'Straight_ahead_only'
+}
+item {
+  display_name: 'T_roads'
+  id: 139
+  name: 'T_roads'
+}
+item {
+  display_name: 'Tractor_farm_vehicle_crossing'
+  id: 140
+  name: 'Tractor_farm_vehicle_crossing'
+}
+item {
+  display_name: 'Tractor_farm_vehicle_crossing_2'
+  id: 141
+  name: 'Tractor_farm_vehicle_crossing_2'
+}
+item {
+  display_name: 'Truck crossing_2'
+  id: 142
+  name: 'Truck crossing_2'
+}
+item {
+  display_name: 'Truck_crossing'
+  id: 143
+  name: 'Truck_crossing'
+}
+item {
+  display_name: 'Truck_rollover_warning'
+  id: 144
+  name: 'Truck_rollover_warning'
+}
+item {
+  display_name: 'Truck_route_sign'
+  id: 145
+  name: 'Truck_route_sign'
+}
+item {
+  display_name: 'Truck_speed_limit_40'
+  id: 146
+  name: 'Truck_speed_limit_40'
+}
+item {
+  display_name: 'Turn_only_lanes'
+  id: 147
+  name: 'Turn_only_lanes'
+}
+item {
+  display_name: 'Turning_vehicles_yield_to_pedestrians'
+  id: 148
+  name: 'Turning_vehicles_yield_to_pedestrians'
+}
+item {
+  display_name: 'Two_direction'
+  id: 149
+  name: 'Two_direction'
+}
+item {
+  display_name: 'Two_way_traffic'
+  id: 150
+  name: 'Two_way_traffic'
+}
+item {
+  display_name: 'Wait_on_stop'
+  id: 151
+  name: 'Wait_on_stop'
+}
+item {
+  display_name: 'Weight_limit_10t'
+  id: 152
+  name: 'Weight_limit_10t'
+}
+item {
+  display_name: 'Winding_road'
+  id: 153
+  name: 'Winding_road'
+}
+item {
+  display_name: 'Work_zone_for_speed_limit'
+  id: 154
+  name: 'Work_zone_for_speed_limit'
+}
+item {
+  display_name: 'Workers_on_road'
+  id: 155
+  name: 'Workers_on_road'
+}
+item {
+  display_name: 'Wrong_way'
+  id: 156
+  name: 'Wrong_way'
+}
+item {
+  display_name: 'Y_roads'
+  id: 157
+  name: 'Y_roads'
+}
+item {
+  display_name: 'Yield'
+  id: 158
+  name: 'Yield'
+}
+item {
+  display_name: 'Yield_here_to_pedestrians'
+  id: 159
+  name: 'Yield_here_to_pedestrians'
+}
+item {
+  display_name: 'Yield_here_to_peds'
+  id: 160
+  name: 'Yield_here_to_peds'
+}

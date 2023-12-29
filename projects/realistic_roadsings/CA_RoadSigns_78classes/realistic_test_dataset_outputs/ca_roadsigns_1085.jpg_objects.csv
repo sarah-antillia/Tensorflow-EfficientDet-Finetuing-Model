@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1085.jpg,School_bus_stop_ahead,0.82,255,118,459,321
+ca_roadsigns_1085.jpg,No_parking,0.74,501,229,715,444
+ca_roadsigns_1085.jpg,Right_turn_required,0.6,990,448,1191,652
+ca_roadsigns_1085.jpg,Drawbridge_ahead,0.4,7,8,77,80

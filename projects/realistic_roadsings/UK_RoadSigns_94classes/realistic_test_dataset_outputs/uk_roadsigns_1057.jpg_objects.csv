@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1057.jpg,Stop_police_ahead,0.74,745,336,985,580
+uk_roadsigns_1057.jpg,Fire_station_ahead,0.67,992,450,1075,570
+uk_roadsigns_1057.jpg,Traffic_signals_ahead,0.64,254,118,375,226
+uk_roadsigns_1057.jpg,Two_way_traffic,0.56,8,9,132,117

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1017.jpg,Motorists_must_not_pass_cyclists,0.85,11,11,144,144
+ca_roadsigns_1017.jpg,Drawbridge_ahead,0.76,255,119,454,321
+ca_roadsigns_1017.jpg,Truck_route,0.68,988,448,1195,654
+ca_roadsigns_1017.jpg,Keep_right,0.48,743,338,802,406

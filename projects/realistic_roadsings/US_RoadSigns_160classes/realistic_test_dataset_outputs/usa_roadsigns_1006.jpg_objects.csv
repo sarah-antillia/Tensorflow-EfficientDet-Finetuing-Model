@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1006.jpg,Lane_ends,0.82,258,120,445,312
+usa_roadsigns_1006.jpg,Speed_limit_80km,0.8,500,230,578,349
+usa_roadsigns_1006.jpg,Except_right_turn,0.78,744,341,934,482
+usa_roadsigns_1006.jpg,Left_turn_or_straight,0.7,991,449,1154,643
+usa_roadsigns_1006.jpg,Golf_cart_crossing,0.59,11,11,107,105

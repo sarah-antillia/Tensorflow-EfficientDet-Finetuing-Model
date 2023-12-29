@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1029.jpg,Curve,0.95,257,120,448,313
+usa_roadsigns_1029.jpg,Winding_road,0.79,10,10,200,201
+usa_roadsigns_1029.jpg,No_unauthorized_vehicles,0.53,501,229,595,293
+usa_roadsigns_1029.jpg,Truck_crossing,0.48,745,341,842,434

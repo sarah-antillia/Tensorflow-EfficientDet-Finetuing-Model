@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1054.jpg,Go_on_slow,0.86,11,9,166,205
+usa_roadsigns_1054.jpg,Runaway_vehicles_only,0.68,743,340,840,437
+usa_roadsigns_1054.jpg,Double_side_roads,0.68,251,117,351,217
+usa_roadsigns_1054.jpg,Rough_road,0.5,500,228,689,423
+usa_roadsigns_1054.jpg,Truck_crossing,0.44,990,448,1085,544

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1074.jpg,Deer_crossing,0.96,8,11,106,105
+usa_roadsigns_1074.jpg,No_left_turn_across_tracks,0.77,744,339,820,434
+usa_roadsigns_1074.jpg,Offset_roads,0.75,497,231,594,327
+usa_roadsigns_1074.jpg,End_detour,0.72,254,118,446,262
+usa_roadsigns_1074.jpg,Hazardous_material_route,0.58,990,449,1183,644

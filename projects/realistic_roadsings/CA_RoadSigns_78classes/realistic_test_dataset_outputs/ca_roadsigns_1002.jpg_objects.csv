@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1002.jpg,Stop,0.95,988,449,1126,586
+ca_roadsigns_1002.jpg,School_zone,0.77,744,339,880,477

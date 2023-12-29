@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+DSC06061.jpg,No_waiting,0.99,443,355,572,486
+DSC06061.jpg,No_u_turns,0.95,435,183,562,314
+DSC06061.jpg,Stop_line,0.42,520,494,616,684
+DSC06061.jpg,Directions_indicator,0.4,433,43,558,183

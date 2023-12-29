@@ -1,0 +1,6 @@
+id, class, count
+1,No_turns,1
+2,Loading_zone,1
+3,Emergency_signal,1
+4,Do_not_pass_stopped_trains,1
+5,Dead_end,1

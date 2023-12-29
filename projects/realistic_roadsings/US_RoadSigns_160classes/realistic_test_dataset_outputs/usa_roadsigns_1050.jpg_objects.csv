@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1050.jpg,Turning_vehicles_yield_to_pedestrians,0.9,253,120,448,315
+usa_roadsigns_1050.jpg,No_left_turn_across_tracks,0.82,9,5,165,201
+usa_roadsigns_1050.jpg,Double_side_roads,0.77,498,230,692,424
+usa_roadsigns_1050.jpg,Two_direction,0.72,989,450,1084,497

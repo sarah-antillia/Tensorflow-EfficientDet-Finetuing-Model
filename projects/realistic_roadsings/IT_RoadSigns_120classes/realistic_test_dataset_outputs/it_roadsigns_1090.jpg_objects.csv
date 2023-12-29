@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1090.jpg,Children,0.96,991,447,1133,576
+it_roadsigns_1090.jpg,No_animal_drawn_vehicles,0.95,500,228,643,373
+it_roadsigns_1090.jpg,Low_flying_aircraft,0.81,16,11,228,199
+it_roadsigns_1090.jpg,No_vehicles_carrying_dangerous_goods,0.75,741,338,965,558

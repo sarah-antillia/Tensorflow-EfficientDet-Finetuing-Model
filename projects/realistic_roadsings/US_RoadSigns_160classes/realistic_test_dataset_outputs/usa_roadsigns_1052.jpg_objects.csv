@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1052.jpg,Speed_limit_80km,0.92,747,337,907,577
+usa_roadsigns_1052.jpg,Truck_rollover_warning,0.9,499,226,595,326
+usa_roadsigns_1052.jpg,Road_slippery_when_wet,0.68,10,10,106,105
+usa_roadsigns_1052.jpg,Golf_cart_crossing,0.59,258,121,449,313

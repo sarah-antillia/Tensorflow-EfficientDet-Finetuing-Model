@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1035.jpg,Bump,0.96,503,227,694,421
+usa_roadsigns_1035.jpg,Keep_right,0.9,256,121,412,314
+usa_roadsigns_1035.jpg,Yield_here_to_peds,0.83,991,450,1182,646
+usa_roadsigns_1035.jpg,National_network_route,0.58,743,339,839,438
+usa_roadsigns_1035.jpg,Railroad_crossing_ahead,0.54,7,10,204,206

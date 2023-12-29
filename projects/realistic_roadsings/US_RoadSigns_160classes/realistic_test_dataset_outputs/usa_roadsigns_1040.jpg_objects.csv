@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1040.jpg,T_roads,0.97,258,120,445,311
+usa_roadsigns_1040.jpg,Truck_speed_limit_40,0.81,989,448,1098,559
+usa_roadsigns_1040.jpg,Keep_left,0.76,6,10,88,108
+usa_roadsigns_1040.jpg,Road_closed_ahead,0.54,503,232,689,423

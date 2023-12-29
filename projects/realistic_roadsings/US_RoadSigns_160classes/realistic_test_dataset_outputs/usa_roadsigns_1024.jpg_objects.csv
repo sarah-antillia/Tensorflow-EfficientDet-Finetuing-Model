@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1024.jpg,Ramp_narrows,0.91,990,446,1112,579
+usa_roadsigns_1024.jpg,Added_lane,0.88,744,338,935,533
+usa_roadsigns_1024.jpg,No_left_or_u_turn,0.64,11,11,199,202
+usa_roadsigns_1024.jpg,Yield_here_to_pedestrians,0.62,498,233,571,321
+usa_roadsigns_1024.jpg,No_parking_from_830am_to_530pm_2,0.5,253,119,318,216

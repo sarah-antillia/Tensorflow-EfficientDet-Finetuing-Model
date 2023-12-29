@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1080.jpg,National_speed_limit_applies,0.98,742,337,991,581
+uk_roadsigns_1080.jpg,Towed_caravans_prohibited,0.78,499,229,620,349
+uk_roadsigns_1080.jpg,Traffic_merges_onto_the_main_carriageway,0.53,254,118,375,226
+uk_roadsigns_1080.jpg,Crossroads,0.45,8,8,130,116

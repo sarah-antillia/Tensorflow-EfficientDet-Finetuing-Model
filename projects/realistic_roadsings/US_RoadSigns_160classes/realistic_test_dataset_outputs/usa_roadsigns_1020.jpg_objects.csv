@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1020.jpg,Deer_crossing,0.97,8,7,199,200
+usa_roadsigns_1020.jpg,Single_lane_shift_left,0.9,993,449,1179,643
+usa_roadsigns_1020.jpg,Winding_road,0.82,256,121,446,311
+usa_roadsigns_1020.jpg,Workers_on_road,0.8,504,229,689,421
+usa_roadsigns_1020.jpg,Winding_road,0.72,743,338,839,435

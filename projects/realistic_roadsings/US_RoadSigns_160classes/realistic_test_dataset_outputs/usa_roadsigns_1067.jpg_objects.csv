@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1067.jpg,Night_speed_limit_70km,0.93,254,119,450,359
+usa_roadsigns_1067.jpg,Keep_left_2,0.85,499,232,657,420
+usa_roadsigns_1067.jpg,Straight_ahead_only,0.78,11,9,167,195
+usa_roadsigns_1067.jpg,Do_not_pass_stopped_trains,0.67,744,337,902,534

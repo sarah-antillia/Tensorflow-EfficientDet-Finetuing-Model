@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1088.jpg,Two_direction,0.98,10,9,202,105
+usa_roadsigns_1088.jpg,Offset_roads,0.77,990,450,1181,644
+usa_roadsigns_1088.jpg,School,0.67,498,232,693,295
+usa_roadsigns_1088.jpg,Yield,0.66,253,118,351,204
+usa_roadsigns_1088.jpg,Wait_on_stop,0.56,747,342,819,437

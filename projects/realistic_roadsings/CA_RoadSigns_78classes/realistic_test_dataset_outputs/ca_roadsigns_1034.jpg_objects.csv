@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1034.jpg,Route_for_dangerous_goods_vehicles,0.91,990,446,1191,650
+ca_roadsigns_1034.jpg,Must_proceed_straight,0.86,253,118,390,255
+ca_roadsigns_1034.jpg,No_overtaking,0.54,500,230,607,336

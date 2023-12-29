@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1073.jpg,Hairpin_curve,0.95,9,9,198,201
+usa_roadsigns_1073.jpg,Truck crossing_2,0.92,253,118,351,217
+usa_roadsigns_1073.jpg,Tractor_farm_vehicle_crossing,0.85,504,231,596,326
+usa_roadsigns_1073.jpg,Parking_with_time_restrictions,0.72,989,448,1052,546
+usa_roadsigns_1073.jpg,Truck_rollover_warning,0.66,747,342,840,437

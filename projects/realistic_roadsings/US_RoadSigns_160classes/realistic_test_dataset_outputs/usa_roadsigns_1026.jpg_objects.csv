@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1026.jpg,Night_speed_limit_70km,0.96,10,9,201,250
+usa_roadsigns_1026.jpg,Road_slippery_when_wet,0.9,502,229,692,423
+usa_roadsigns_1026.jpg,Stop_here_for_pedestrians,0.65,987,452,1061,545
+usa_roadsigns_1026.jpg,Path_narrows,0.59,253,118,455,315

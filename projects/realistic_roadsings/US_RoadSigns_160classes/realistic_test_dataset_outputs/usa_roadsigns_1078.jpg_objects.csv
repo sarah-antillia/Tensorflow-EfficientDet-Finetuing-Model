@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1078.jpg,Do_not_enter,0.91,7,7,207,203
+usa_roadsigns_1078.jpg,Double_side_roads,0.64,252,116,351,217
+usa_roadsigns_1078.jpg,No_turns,0.63,499,231,595,324
+usa_roadsigns_1078.jpg,Reverse_curve,0.57,743,341,937,535
+usa_roadsigns_1078.jpg,Straight_ahead_only,0.56,990,450,1087,570

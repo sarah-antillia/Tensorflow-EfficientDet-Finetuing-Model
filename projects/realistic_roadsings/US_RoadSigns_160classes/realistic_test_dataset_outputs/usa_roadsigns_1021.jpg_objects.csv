@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1021.jpg,Flagger_present,0.93,8,8,105,102
+usa_roadsigns_1021.jpg,Pedestrian_crossing,0.88,991,449,1085,546
+usa_roadsigns_1021.jpg,No_rollerblading,0.66,499,230,696,423
+usa_roadsigns_1021.jpg,Rough_road,0.57,256,122,449,316
+usa_roadsigns_1021.jpg,Sharp_turn,0.57,744,338,842,434

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1035.jpg,Disaster_response_route,0.97,990,451,1127,585
+ca_roadsigns_1035.jpg,Drawbridge_ahead,0.78,498,230,704,432
+ca_roadsigns_1035.jpg,Gentle_curve_ahead,0.77,741,339,949,544
+ca_roadsigns_1035.jpg,Maximum_speed_limit,0.76,10,11,175,216
+ca_roadsigns_1035.jpg,Bicycle_route_marker,0.69,255,119,322,186

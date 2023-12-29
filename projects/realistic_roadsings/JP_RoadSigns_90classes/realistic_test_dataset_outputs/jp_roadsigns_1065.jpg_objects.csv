@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+jp_roadsigns_1065.jpg,No_right_turn_crossing,0.99,8,7,253,249
+jp_roadsigns_1065.jpg,Closed_to_pedestrians,0.99,255,118,499,366
+jp_roadsigns_1065.jpg,Turn_right,0.98,989,448,1112,571
+jp_roadsigns_1065.jpg,Steep_descent10%,0.96,499,231,620,352

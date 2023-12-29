@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1014.jpg,Road_closed,0.9,746,340,936,459
+usa_roadsigns_1014.jpg,Stay_in_lane,0.79,256,119,329,215
+usa_roadsigns_1014.jpg,Sharp_turn,0.79,10,9,197,202
+usa_roadsigns_1014.jpg,Bicycles_and_pedestrians,0.64,990,450,1084,544
+usa_roadsigns_1014.jpg,Truck_crossing,0.62,502,230,694,423

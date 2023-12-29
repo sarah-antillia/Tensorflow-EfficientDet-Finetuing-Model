@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1010.jpg,Hairpin_curve_ahead,0.9,988,445,1192,655
+ca_roadsigns_1010.jpg,Uneven_surface,0.7,501,230,719,451
+ca_roadsigns_1010.jpg,Two_way_traffic,0.58,11,8,169,212
+ca_roadsigns_1010.jpg,Road_narrows_ahead,0.46,744,341,944,539

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1039.jpg,National_network_prohibited,0.95,500,228,693,423
+usa_roadsigns_1039.jpg,Stop_here_for_pedestrians,0.83,253,121,396,309
+usa_roadsigns_1039.jpg,No_standing_any_time,0.59,991,447,1054,545
+usa_roadsigns_1039.jpg,No_pedestrians,0.4,8,9,107,55

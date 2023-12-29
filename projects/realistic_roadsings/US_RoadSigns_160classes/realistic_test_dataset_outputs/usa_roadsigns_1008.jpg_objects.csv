@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1008.jpg,Chevron_alignment,0.93,9,11,157,201
+usa_roadsigns_1008.jpg,Reserved_parking_wheelchair,0.93,988,449,1121,642
+usa_roadsigns_1008.jpg,Turn_only_lanes,0.74,744,338,840,397
+usa_roadsigns_1008.jpg,No_train_horn_warning,0.62,254,119,353,218
+usa_roadsigns_1008.jpg,Weight_limit_10t,0.53,500,231,577,325

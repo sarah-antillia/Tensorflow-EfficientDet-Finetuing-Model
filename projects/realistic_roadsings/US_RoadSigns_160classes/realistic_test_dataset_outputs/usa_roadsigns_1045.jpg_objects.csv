@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1045.jpg,Side_road_at_an_acute_angle,0.91,747,336,937,531
+usa_roadsigns_1045.jpg,Workers_on_road,0.79,503,228,691,420
+usa_roadsigns_1045.jpg,Hazardous_material_route,0.74,10,10,203,205
+usa_roadsigns_1045.jpg,Stay_in_lane,0.73,256,120,329,216
+usa_roadsigns_1045.jpg,Hidden_driveway,0.4,990,449,1084,545

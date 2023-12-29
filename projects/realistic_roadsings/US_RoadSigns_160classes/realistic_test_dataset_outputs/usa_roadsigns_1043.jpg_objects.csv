@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1043.jpg,Bicycles_and_pedestrians,0.98,991,446,1180,640
+usa_roadsigns_1043.jpg,All_way,0.85,257,119,448,181
+usa_roadsigns_1043.jpg,No_turns,0.73,498,231,594,324
+usa_roadsigns_1043.jpg,Railroad_crossing,0.71,5,8,106,106
+usa_roadsigns_1043.jpg,Metric_low_clearance,0.69,745,338,938,536

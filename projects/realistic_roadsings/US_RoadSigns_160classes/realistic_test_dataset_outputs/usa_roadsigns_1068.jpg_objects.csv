@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1068.jpg,Skewed_railroad_crossing,0.94,255,119,445,310
+usa_roadsigns_1068.jpg,Stop_here_for_peds,0.92,745,340,940,533
+usa_roadsigns_1068.jpg,Yield_here_to_peds,0.89,502,233,690,422
+usa_roadsigns_1068.jpg,No_unauthorized_vehicles,0.58,989,449,1181,578
+usa_roadsigns_1068.jpg,No_rollerblading,0.52,9,10,199,204

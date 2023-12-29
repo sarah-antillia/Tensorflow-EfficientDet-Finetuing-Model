@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1074.jpg,Wild_animals,0.92,251,117,499,336
+uk_roadsigns_1074.jpg,Road_narrows_on_the_right,0.76,8,6,252,220
+uk_roadsigns_1074.jpg,Road_narrows_on_both_sides,0.74,743,337,984,551
+uk_roadsigns_1074.jpg,Stop_police_ahead,0.68,989,450,1109,571

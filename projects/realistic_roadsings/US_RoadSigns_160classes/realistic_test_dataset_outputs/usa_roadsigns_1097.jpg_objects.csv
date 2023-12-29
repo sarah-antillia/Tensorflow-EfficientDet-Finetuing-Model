@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1097.jpg,Turn_only_lanes,0.97,992,451,1179,567
+usa_roadsigns_1097.jpg,Keep_right,0.6,256,123,332,215
+usa_roadsigns_1097.jpg,End_detour,0.54,499,232,594,302
+usa_roadsigns_1097.jpg,No_straight_through,0.53,9,9,201,202
+usa_roadsigns_1097.jpg,Flagger_present,0.45,746,341,840,435

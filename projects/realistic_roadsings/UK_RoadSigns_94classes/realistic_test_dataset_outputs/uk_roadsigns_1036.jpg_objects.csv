@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1036.jpg,Towed_caravans_prohibited,0.93,8,6,252,250
+uk_roadsigns_1036.jpg,One_way_traffic,0.93,750,339,909,580
+uk_roadsigns_1036.jpg,Ford_warning,0.88,252,119,496,337
+uk_roadsigns_1036.jpg,Traffic_signals_ahead,0.75,991,448,1232,661

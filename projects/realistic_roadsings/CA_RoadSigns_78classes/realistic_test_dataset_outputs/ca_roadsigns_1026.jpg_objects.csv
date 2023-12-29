@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1026.jpg,Parking_permitted,0.84,988,449,1127,587
+ca_roadsigns_1026.jpg,Drawbridge_ahead,0.46,743,338,812,409
+ca_roadsigns_1026.jpg,Pedestrian_crosswalk_ahead,0.44,503,229,704,442

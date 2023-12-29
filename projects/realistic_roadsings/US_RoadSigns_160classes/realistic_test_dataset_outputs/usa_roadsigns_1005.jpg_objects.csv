@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1005.jpg,Workers_on_road,0.83,744,340,939,539
+usa_roadsigns_1005.jpg,No_left_or_u_turn,0.7,254,116,450,314
+usa_roadsigns_1005.jpg,Tractor_farm_vehicle_crossing_2,0.68,9,9,109,108
+usa_roadsigns_1005.jpg,Rough_road,0.53,988,451,1183,645

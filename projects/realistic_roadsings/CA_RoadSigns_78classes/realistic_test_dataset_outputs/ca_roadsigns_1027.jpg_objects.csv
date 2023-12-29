@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1027.jpg,Bump,0.91,744,338,851,449
+ca_roadsigns_1027.jpg,Bicycle_crossing_ahead,0.9,987,445,1128,586
+ca_roadsigns_1027.jpg,No_left_turn_or_straight_ahead,0.62,500,230,635,365
+ca_roadsigns_1027.jpg,Traffic_calmed_neighborhood,0.48,251,123,432,255

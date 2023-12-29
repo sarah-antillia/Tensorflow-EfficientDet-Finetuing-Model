@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1061.jpg,Metric_low_clearance,0.88,10,10,201,201
+usa_roadsigns_1061.jpg,Metric_low_clearance,0.69,990,451,1179,641
+usa_roadsigns_1061.jpg,Offset_roads,0.63,252,116,349,217
+usa_roadsigns_1061.jpg,One_direction,0.61,497,227,594,276
+usa_roadsigns_1061.jpg,No_rollerblading,0.61,744,339,939,536

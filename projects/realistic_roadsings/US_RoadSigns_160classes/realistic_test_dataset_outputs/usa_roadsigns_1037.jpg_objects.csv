@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1037.jpg,No_parking_bus_stop,0.91,10,7,138,201
+usa_roadsigns_1037.jpg,Single_lane_shift_left,0.88,992,447,1180,642
+usa_roadsigns_1037.jpg,Road_slippery_when_wet,0.85,743,338,843,437
+usa_roadsigns_1037.jpg,No_outlet,0.83,256,123,446,314
+usa_roadsigns_1037.jpg,Two_way_traffic,0.6,499,230,598,324

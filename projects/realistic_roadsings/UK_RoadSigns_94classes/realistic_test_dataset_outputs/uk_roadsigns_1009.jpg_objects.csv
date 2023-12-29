@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1009.jpg,Keep_to_the_left,0.99,7,5,255,251
+uk_roadsigns_1009.jpg,Other_dangers,0.87,746,336,987,557
+uk_roadsigns_1009.jpg,Steep_descent,0.79,254,117,495,332
+uk_roadsigns_1009.jpg,Part_time_traffic_signals_ahead,0.46,989,452,1080,571
+uk_roadsigns_1009.jpg,Frail_pedestrians_likely_to_cross,0.43,496,230,621,338

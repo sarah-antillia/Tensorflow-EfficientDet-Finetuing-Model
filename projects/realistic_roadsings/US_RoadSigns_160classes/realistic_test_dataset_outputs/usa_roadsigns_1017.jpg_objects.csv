@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1017.jpg,Deer_crossing,0.94,745,338,935,532
+usa_roadsigns_1017.jpg,Ramp_narrows,0.93,500,231,619,360
+usa_roadsigns_1017.jpg,Curve,0.91,8,10,108,108
+usa_roadsigns_1017.jpg,Stop_here_for_pedestrians,0.74,253,121,326,216
+usa_roadsigns_1017.jpg,No_rollerblading,0.56,991,449,1179,646

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1011.jpg,Bicycles_and_pedestrians,0.98,990,451,1182,644
+usa_roadsigns_1011.jpg,School_advance,0.91,744,336,937,534
+usa_roadsigns_1011.jpg,Left_turn_or_straight,0.72,11,11,92,107
+usa_roadsigns_1011.jpg,Golf_cart_crossing,0.71,500,226,692,421
+usa_roadsigns_1011.jpg,Offset_roads,0.57,253,117,349,216

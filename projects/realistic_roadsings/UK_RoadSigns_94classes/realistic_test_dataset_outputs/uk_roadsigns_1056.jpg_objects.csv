@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1056.jpg,Cyclists_and_pedestrians_only,0.99,992,444,1234,695
+uk_roadsigns_1056.jpg,No_stopping,0.99,9,7,249,250
+uk_roadsigns_1056.jpg,Low_flying_helicopters_or_sudden_helicopter_noise,0.91,499,227,746,446
+uk_roadsigns_1056.jpg,Towed_caravans_prohibited,0.62,257,121,376,240

@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1036.jpg,School_advance,0.93,9,8,199,200
+usa_roadsigns_1036.jpg,Reverse_turn,0.79,254,122,447,314
+usa_roadsigns_1036.jpg,Truck_rollover_warning,0.78,744,337,839,434

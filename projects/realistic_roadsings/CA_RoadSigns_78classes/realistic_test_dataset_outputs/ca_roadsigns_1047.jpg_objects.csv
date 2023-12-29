@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1047.jpg,Slow,0.65,993,450,1192,655
+ca_roadsigns_1047.jpg,Slow,0.62,504,232,700,431
+ca_roadsigns_1047.jpg,No_pedestrians,0.61,10,10,146,147

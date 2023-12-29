@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1028.jpg,Loose_chippings,0.94,8,8,246,220
+uk_roadsigns_1028.jpg,Mini_roundabout,0.83,256,119,376,239
+uk_roadsigns_1028.jpg,Fire_station_ahead,0.75,501,230,585,351
+uk_roadsigns_1028.jpg,Slippery_road,0.43,750,338,988,553
+uk_roadsigns_1028.jpg,Other_dangers,0.43,987,447,1112,555

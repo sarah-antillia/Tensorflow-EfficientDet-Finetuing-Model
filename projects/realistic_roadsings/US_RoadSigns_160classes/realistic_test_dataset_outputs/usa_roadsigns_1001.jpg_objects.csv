@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1001.jpg,Turning_vehicles_yield_to_pedestrians,0.87,498,229,596,324
+usa_roadsigns_1001.jpg,Golf_cart_crossing,0.87,258,118,445,310
+usa_roadsigns_1001.jpg,Yield,0.84,743,338,841,423
+usa_roadsigns_1001.jpg,Parking_with_time_restrictions,0.79,9,8,75,106
+usa_roadsigns_1001.jpg,Hairpin_curve,0.76,992,450,1088,544

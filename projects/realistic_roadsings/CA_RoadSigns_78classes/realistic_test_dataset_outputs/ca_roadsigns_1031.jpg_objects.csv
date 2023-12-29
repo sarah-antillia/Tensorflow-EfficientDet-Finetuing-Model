@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1031.jpg,No_overtaking,0.77,495,229,717,451
+ca_roadsigns_1031.jpg,Uneven_surface,0.76,255,120,475,337
+ca_roadsigns_1031.jpg,Bus_lane,0.58,985,444,1052,523

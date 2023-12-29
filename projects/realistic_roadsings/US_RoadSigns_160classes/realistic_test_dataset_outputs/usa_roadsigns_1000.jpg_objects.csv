@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1000.jpg,No_parking_from_830am_to_530pm,0.92,10,9,135,197
+usa_roadsigns_1000.jpg,One_direction,0.91,990,450,1179,543
+usa_roadsigns_1000.jpg,Winding_road,0.8,259,121,447,312
+usa_roadsigns_1000.jpg,National_network_prohibited,0.52,498,229,594,326
+usa_roadsigns_1000.jpg,Pass_on_either_side,0.52,746,339,839,434

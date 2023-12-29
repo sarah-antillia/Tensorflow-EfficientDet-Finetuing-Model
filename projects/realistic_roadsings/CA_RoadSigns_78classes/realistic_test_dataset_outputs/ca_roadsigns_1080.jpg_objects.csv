@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1080.jpg,Turn_left_or_right,0.89,253,120,454,321
+ca_roadsigns_1080.jpg,Deer_area,0.56,743,341,881,475
+ca_roadsigns_1080.jpg,Yield_sign_ahead,0.56,988,447,1124,582
+ca_roadsigns_1080.jpg,Drawbridge_ahead,0.4,11,10,78,78

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1034.jpg,Tractor_farm_vehicle_crossing_2,0.89,10,10,204,206
+usa_roadsigns_1034.jpg,Left_turn_or_straight,0.66,991,449,1153,643
+usa_roadsigns_1034.jpg,Path_narrows,0.63,499,229,695,422
+usa_roadsigns_1034.jpg,Stop_here_when_flashing,0.58,255,119,330,217
+usa_roadsigns_1034.jpg,Hazardous_material_prohibited,0.5,744,340,934,533

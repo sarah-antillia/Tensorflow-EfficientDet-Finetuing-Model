@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1033.jpg,Steep_grade,0.97,257,121,447,315
+usa_roadsigns_1033.jpg,Parking_with_time_restrictions,0.9,9,9,136,199
+usa_roadsigns_1033.jpg,One_way,0.71,990,452,1185,515
+usa_roadsigns_1033.jpg,No_rollerblading,0.61,499,229,696,424
+usa_roadsigns_1033.jpg,Truck_rollover_warning,0.44,746,339,840,435

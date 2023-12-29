@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1090.jpg,Do_not_proceed_straight_ahead,0.9,11,11,211,215
+ca_roadsigns_1090.jpg,Maximum_speed_limit,0.75,747,341,907,541
+ca_roadsigns_1090.jpg,Watch_for_fallen_or_falling_rocks,0.47,255,118,390,256

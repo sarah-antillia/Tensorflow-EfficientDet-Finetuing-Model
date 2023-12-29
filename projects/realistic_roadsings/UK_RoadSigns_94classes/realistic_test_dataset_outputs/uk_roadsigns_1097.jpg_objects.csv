@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1097.jpg,No_u_turns_for_vehicular_traffic,0.98,991,449,1112,571
+uk_roadsigns_1097.jpg,No_right_turn,0.98,501,230,743,471
+uk_roadsigns_1097.jpg,Opening_or_swing_bridge,0.96,10,7,132,117
+uk_roadsigns_1097.jpg,Side_winds,0.73,256,119,497,337
+uk_roadsigns_1097.jpg,Traffic_merges_onto_the_main_carriageway,0.57,744,338,983,551

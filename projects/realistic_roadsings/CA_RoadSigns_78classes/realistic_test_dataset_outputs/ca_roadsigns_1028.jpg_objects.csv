@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1028.jpg,No_right_turn_on_red,0.89,990,449,1078,583
+ca_roadsigns_1028.jpg,Railway_crossing,0.82,11,11,213,216
+ca_roadsigns_1028.jpg,No_right_turn_or_straight_ahead,0.61,255,121,391,257

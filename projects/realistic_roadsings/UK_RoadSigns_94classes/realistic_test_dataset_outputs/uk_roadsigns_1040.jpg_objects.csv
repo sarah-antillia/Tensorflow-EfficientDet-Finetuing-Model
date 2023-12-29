@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+uk_roadsigns_1040.jpg,Horse_drawn_vehicles_prohibited,0.98,9,7,253,251
+uk_roadsigns_1040.jpg,All_vehicles_prohibited,0.91,498,225,620,351
+uk_roadsigns_1040.jpg,Pedestrians_prohibited,0.88,251,119,376,241
+uk_roadsigns_1040.jpg,Maximum_speed_40,0.79,988,446,1111,571
+uk_roadsigns_1040.jpg,Traffic_merges_from_the_left,0.47,744,338,864,446

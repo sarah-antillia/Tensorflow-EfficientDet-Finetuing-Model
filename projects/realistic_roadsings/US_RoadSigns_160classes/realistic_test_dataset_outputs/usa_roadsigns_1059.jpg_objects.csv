@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1059.jpg,Bicycles_and_pedestrians,0.99,11,10,201,201
+usa_roadsigns_1059.jpg,Stop_here_when_flashing,0.86,256,117,407,309
+usa_roadsigns_1059.jpg,Offset_roads,0.82,743,338,841,435
+usa_roadsigns_1059.jpg,No_parking_loading_zone,0.69,499,228,629,421
+usa_roadsigns_1059.jpg,Side_road_at_a_perpendicular_angle,0.68,990,451,1085,546

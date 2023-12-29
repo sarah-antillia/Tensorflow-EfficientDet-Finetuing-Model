@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1098.jpg,Disaster_response_route,0.95,747,341,950,544
+ca_roadsigns_1098.jpg,No_parking,0.72,499,230,717,450
+ca_roadsigns_1098.jpg,Chevron_marker,0.55,36,346,235,652
+ca_roadsigns_1098.jpg,Stop_ahead,0.42,256,120,460,321

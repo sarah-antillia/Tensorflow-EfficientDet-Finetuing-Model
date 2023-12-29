@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1019.jpg,Side_road_at_a_perpendicular_angle,0.96,256,118,447,313
+usa_roadsigns_1019.jpg,School_speed_limit_ahead,0.63,498,227,597,327
+usa_roadsigns_1019.jpg,Railroad_intersection_warning,0.55,985,445,1088,548
+usa_roadsigns_1019.jpg,Reverse_curve,0.51,746,338,842,436

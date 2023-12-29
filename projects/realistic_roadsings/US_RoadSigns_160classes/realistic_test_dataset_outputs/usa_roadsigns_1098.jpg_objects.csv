@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1098.jpg,Bump,0.98,992,450,1184,645
+usa_roadsigns_1098.jpg,No_hitch_hiking,0.76,253,118,447,312
+usa_roadsigns_1098.jpg,Hairpin_curve,0.62,8,9,104,106
+usa_roadsigns_1098.jpg,Pedestrian_crossing,0.44,499,229,598,328

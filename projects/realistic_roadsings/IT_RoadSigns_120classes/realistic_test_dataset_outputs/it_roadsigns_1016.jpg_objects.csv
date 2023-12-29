@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+it_roadsigns_1016.jpg,Cattle,0.97,990,447,1207,639
+it_roadsigns_1016.jpg,Junction_with_a_minor_side_road_from_right,0.91,503,226,711,418
+it_roadsigns_1016.jpg,Multiple_level_crossing,0.8,743,339,887,445
+it_roadsigns_1016.jpg,End_of_no_overtaking,0.74,254,122,472,336
+it_roadsigns_1016.jpg,Road_narrows_on_right,0.57,11,10,155,135

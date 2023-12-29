@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1004.jpg,School_advance,0.89,497,231,691,424
+usa_roadsigns_1004.jpg,Straight_ahead_only,0.74,254,119,334,216
+usa_roadsigns_1004.jpg,Double_side_roads,0.7,989,447,1087,546
+usa_roadsigns_1004.jpg,Hidden_driveway,0.48,10,9,107,106

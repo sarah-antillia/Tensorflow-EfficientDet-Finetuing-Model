@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1052.jpg,Yield,0.76,497,227,732,432
+ca_roadsigns_1052.jpg,Roundabout_ahead,0.64,254,125,458,320
+ca_roadsigns_1052.jpg,Stop_ahead,0.42,989,447,1192,652

@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1040.jpg,Cul_de_sac,0.92,988,448,1189,654

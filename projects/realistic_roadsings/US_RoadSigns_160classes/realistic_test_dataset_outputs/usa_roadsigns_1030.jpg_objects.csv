@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+usa_roadsigns_1030.jpg,Bump,0.98,255,121,448,315
+usa_roadsigns_1030.jpg,Path_narrows,0.67,992,449,1088,545
+usa_roadsigns_1030.jpg,Left_turn_or_straight,0.55,501,228,664,420
+usa_roadsigns_1030.jpg,One_way,0.55,13,9,202,75
