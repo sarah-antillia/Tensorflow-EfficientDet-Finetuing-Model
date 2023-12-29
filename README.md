@@ -201,7 +201,7 @@ This bar graph shows that the number of the objects contained in train.tfrecord.
 <br>
 
 <h3>4. Download the pretrained-model efficientdet-d1</h3>
-Please download an EfficientDet model chekcpoint file <b>efficientdet-d1.tar.gz</b>, and expand it under
+Please download the efficientdet model chekcpoint file <b>efficientdet-d1.tar.gz</b>, and expand it under
  <b>Tensorflow-EfficientDet-Finetuning-Model/efficientdet</b> folder.<br>
 <br>
 https://storage.googleapis.com/cloud-tpu-checkpoints/efficientdet/coco2/efficientdet-d0.tar.gz
