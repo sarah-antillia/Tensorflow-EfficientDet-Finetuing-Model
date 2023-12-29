@@ -153,7 +153,7 @@ Please run the following command to install python packages for this project.<br
 3. Download a sample TFRecord dataset
 </h3>
 As a slightly complicated example, we will try to improve object detection accuracy of <b>EfficientDet US_RoadSigns_160classes Model</b>.
-Please refer the previous experiment <a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a>.<br>  
+Please refer to the previous experiment <a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a>.<br>  
     
 <h3>3.1 Download TFRecord dataset</h3>
  If you would like to train Tensorflow-EfficientDet-Finetuning-Model by US_RoadSigns_160classes dataset,
