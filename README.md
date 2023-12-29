@@ -420,7 +420,7 @@ To improve this small-objects problem, we probably need to add a lot of small ob
 <br>
 <br>
 The some average precisons and recalls above have been improved than that of 
-the previous experiment without autoaugment_policy hyperparameters:
+the previous experiment without autoaugment_policy hyperparameter:
 
 <a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a> without .<br>  
 <br>
