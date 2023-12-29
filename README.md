@@ -556,7 +556,12 @@ As already mentioned, the average precision and recall for small objects of <b>t
      
 <h3>10.3 Use OCR</h3>
 As shown in our repository <a href="https://github.com/atlan-antillia/Tesseract-RoadSigns-Recognizer">Tesseract-RoadSigns-Recognizer</a>.
-we probably need to use OCR tool to detect textbased roadsigns not only object-detection tool.<br>
+we probably need to use OCR tool to detect textbased roadsigns not only object-detection tool.<br><br>
+
+Please refer to: <a href="https://www.ijirst.org/articles/IJIRSTV3I4117.pdf">Automatic Detection and Recognition of Text in
+Traffic Sign Boards based on Word Recognizer</a>
+<br>
+
  
 
 
