@@ -67,7 +67,7 @@ Tensorflow-EfficientDet-Finetuning-Model
 
 <h3>2.3 effficientdet folder</h3>
 
-The original python scripts in this folder has been taken from the github 
+The original python scripts in this folder have been taken from the github 
 repository <a href="https://github.com/google/automl/tree/master/efficientdet">google/automl/efficientdet</a><br>
 We have added the following python scripts to use Tensorflow-EfficientDet-Finetuning-Model.<br>
 
