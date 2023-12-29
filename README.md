@@ -531,7 +531,7 @@ The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>realis
 <img src="./projects/realistic_roadsings/US_RoadSigns_160classes/asset/inference_console_output.png" width="740" height="auto"><br>
 <br>
  COCO metrics above have been improved than that of the previous experiment without autoaugment_policy hyperparameter:
-<a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a> without .<br>  
+<a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a>.<br>  
 <br>
 
 <img src="./projects/realistic_roadsings/US_RoadSigns_160classes/asset/coco_metrics_console_test_dataset_at_epoch100_tf2.8.0_0711.png" width="740" height="auto"><br>
