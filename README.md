@@ -38,9 +38,9 @@ Please create a working folder "c:\efficientdet_finetuning" for your repository,
 >cd    c:\efficientdet_finetuning
 </pre>
 <h3>2.2 Clone repository</h3>
-Please clone Tensorflow-EfficientDet-Finetuning-Model.git in the working folder <b>c:\finetuning</b>.<br>
+Please clone Tensorflow-EfficientDet-Finetuning-Model.git in the working folder <b>c:\efficientdet_finetuning</b>.<br>
 <pre>
->git clone https://github.com/sarah-antillia/Tensorflow-EfficientDet-Finetuing-Model.git<br>
+>git clone https://github.com/sarah-antillia/Tensorflow-EfficientDet-Finetuning-Model.git<br>
 </pre>
 You can see the following two top folder <b>efficientdet</b> and <b>projects</b> in  Tensorflow-EfficientDet-Finetuning-Model 
 of your working folder.<br>
@@ -422,7 +422,7 @@ small-object problem.
 To improve this small-objects problem, we probably need to add a lot of small object images (road signs) to the training and validation datasets.    
 <br>
 <br>
-The some average precisons and recalls above have been improved than that of 
+The some average precision and recalls above have been improved than that of 
 the previous experiment without autoaugment_policy hyperparameter:
 
 <a href="https://github.com/atlan-antillia/EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes">EfficientDet-Slightly-Realistic-USA-RoadSigns-160classes</a> without .<br>  

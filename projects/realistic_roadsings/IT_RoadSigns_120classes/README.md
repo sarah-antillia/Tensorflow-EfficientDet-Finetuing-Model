@@ -1,7 +1,7 @@
 <h2>
-IT-RoadSigns-120classes
+EfficientDet-IT-RoadSigns-120classes
 </h2>
-Please see also our fist experiment:
+Please see also our first experiment:
 <a href="https://github.com/sarah-antillia/EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes">EfficientDet-Slightly-Realistic-IT-RoadSigns-120classes</a>
 <br>
 <h3>1. Download TFRecord dataset</h3>
@@ -176,7 +176,7 @@ In case of Linux or Windows/WSL2, please run the following shell script.<br>
 <br>
 
 <br>
-<b><a href="./eval/coco_metrics.csv">COCO meticss f and map</a></b><br>
+<b><a href="./eval/coco_metrics.csv">COCO metrics f and map</a></b><br>
 <img src="./asset/coco_metrics_at_epoch100_tf2.8.0_0221.png" width="1024" height="auto">
 <br>
 <br>

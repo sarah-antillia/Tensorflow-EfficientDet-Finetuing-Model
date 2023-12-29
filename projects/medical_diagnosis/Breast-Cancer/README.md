@@ -21,8 +21,8 @@ Dataset of breast ultrasound images. Data in Brief.
 DOI: 10.1016/j.dib.2019.104863.
 </pre>
 
-<h2>2. Download Datataset</h2>
-If you would like to train and evalute Breast-Cancer EfficientDet Model by yourself,
+<h2>2. Download Dataset</h2>
+If you would like to train and evaluate Breast-Cancer EfficientDet Model by yourself,
 please download <b>TFRecord</b> dataset <b>Break-Cancer(BUSI)</b> train and valid dataset 
 from the following Google drive.<br>
 
@@ -31,7 +31,7 @@ from the following Google drive.<br>
 
 
 <h3>3. Train Breast-Cancer Model by using the pretrained-model</h3>
-Please move to <b>./projects/medical_diagnosis/Breas-Cancer</b>,
+Please move to <b>./projects/medical_diagnosis/Breast-Cancer</b>,
 and run the following bat file to train Breast-Cancer EfficientDet Model by using the train and valid tfrecords.
 <pre>
 1_train.bat

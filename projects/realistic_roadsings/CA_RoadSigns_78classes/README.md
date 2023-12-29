@@ -5,7 +5,7 @@ Please see also our first experiment:<a href="https://github.com/sarah-antillia/
 <br>
 <br>
 <h3>1. Download dataset</h3>
-If you would like to train and evalute CA_RoadSigns EfficientDet Model by yourself,
+If you would like to train and evaluate CA_RoadSigns EfficientDet Model by yourself,
 please download <b>TFRecord_CA-RoadSigns-78classes</b> dataset from 
 <a href="https://drive.google.com/file/d/1OC8b0fmc7cUe8JzHW3TVRdG3hD50F-aX/view?usp=sharing">
 CA-RoadSigns-78classes</a>
@@ -133,7 +133,7 @@ In case of Linux or Windows/WSL2, please run the following shell script instead 
 <br>
 
 <br>
-<b><a href="./eval/coco_metrics.csv">COCO meticss f and map</a></b><br>
+<b><a href="./eval/coco_metrics.csv">COCO metrics f and map</a></b><br>
 <img src="./asset/coco_metrics_at_epoch80_tf2.8.0_0222.png" width="1024" height="auto">
 <br>
 <br>

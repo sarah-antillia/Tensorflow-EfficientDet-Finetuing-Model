@@ -8,7 +8,7 @@ EfficientDet-Slightly-Realistic-Japanese-RoadSigns-90classes
 
 <br>
 <h3>1. Download TFRecord dataset</h3>
-If you would like to train and evalute JP-RoadSigns EfficientDet Model by yourself,
+If you would like to train and evaluate JP-RoadSigns EfficientDet Model by yourself,
 please download the latest TFRecord_Japanese-RoadSigns-90classes_V7.1 dataset from  
 <a href="https://drive.google.com/file/d/1eDDZaQsFCKfNSu_Ciuq5E4wA7ymDj2Ei/view?usp=sharing">TFRecord_Japanese-RoadSigns-90classes_V7.1.zip</a>
 
@@ -143,11 +143,11 @@ In case of Linux or Windows/WSL2, please run the following shell script instead 
 90: 'Y_junction'
 </pre>
 <br>
-<b>Console output COCO meticss f and map at epoch 66</a></b><br>
+<b>Console output COCO metrics f and map at epoch 66</a></b><br>
 <img src="./asset/cocometric_train_console_output_V7_at_epoch66_0708.png" width="1024" height="auto">
 <br>
 <br>
-<b><a href="./eval/coco_metrics.csv">COCO meticss f and map</a></b><br>
+<b><a href="./eval/coco_metrics.csv">COCO metrics f and map</a></b><br>
 <img src="./asset/coco_metrics_f_map_V7_at_ecpoch66_0708.png" width="1024" height="auto">
 <br>
 <br>

@@ -14,7 +14,7 @@ in ./projects/slightly_realistic_roadsigns/DE_RoadSigns 108classes folder.
 <br>
 
 
-<h3>2. Training RoadSigns Model by using pretrained-model</h3>
+<h3>2. Train RoadSigns Model by using pretrained-model</h3>
 Move to the . directory, and run the following bat file to train roadsigns efficientdet model:
 <pre>
 1_train.bat
@@ -178,7 +178,7 @@ In case of Linux or Windows/WSL2, please run the following shell script.<br>
 <h3>
 2. Create a saved_model from the checkpoint
 </h3>
- Please run the following bat file to create a saved model from a chekcpoint in models folder.
+ Please run the following bat file to create a saved model from a checkpoint in models folder.
 <pre>
 2_create_saved_model.bat
 </pre>

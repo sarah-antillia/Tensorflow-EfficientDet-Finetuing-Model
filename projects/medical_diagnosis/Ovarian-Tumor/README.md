@@ -44,7 +44,7 @@ https://arxiv.org/pdf/2207.06799v3.pdf
 
 <h3>2. Download TFRecord Dataset</h3>
 
-If you would like to train and evalute Ovarian-Tumor EfficientDet Model by yourself, please download the <b>TFRecord-OTUSI-20230420.zip</b>
+If you would like to train and evaluate Ovarian-Tumor EfficientDet Model by yourself, please download the <b>TFRecord-OTUSI-20230420.zip</b>
 from <a href="https://drive.google.com/file/d/1OqG-aB7FfB0dZkKB0aTMmwcWsStNTsSu/view?usp=sharing"><b>here</b></a>
 </p>
 
@@ -226,32 +226,7 @@ From the picture above, you can see that <b>Average Precision @[IoU=0.50:0.05]</
 <h3>
 References
 </h3>
-
-<b>1. Multi-Modality Ovarian Tumor Ultrasound (MMOTU) image dataset</b><br>
-<pre>
-https://github.com/cv516buaa/mmotu_ds2net
-</pre>
-Citation:<br>
-<pre>
-@article{DBLP:journals/corr/abs-2207-06799,
-  author    = {Qi Zhao and
-               Shuchang Lyu and
-               Wenpei Bai and
-               Linghan Cai and
-               Binghao Liu and
-               Meijing Wu and
-               Xiubo Sang and
-               Min Yang and
-               Lijiang Chen},
-  title     = {A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised
-               Cross-Domain Semantic Segmentation},
-  journal   = {CoRR},
-  volume    = {abs/2207.06799},
-  year      = {2022},
-}
-</pre>
-
-<b>2. A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation</b><br>
+<b>1. A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation</b><br>
 Qi Zhao*, Member, IEEE, Shuchang Lyu*, Graduate Student Member, IEEE, Wenpei Bai*, Linghan Cai*,<br>
 Binghao Liu, Meijing Wu, Xiubo Sang, Min Yang, Lijiang Chen, Member, IEEE<br>
 
@@ -259,7 +234,7 @@ Binghao Liu, Meijing Wu, Xiubo Sang, Min Yang, Lijiang Chen, Member, IEEE<br>
 https://arxiv.org/pdf/2207.06799v3.pdf
 </pre>
 
-<b>3. Ovarian tumor diagnosis using deep convolutional neural networks and a denoising convolutional autoencoder</b><br>
+<b>2. Ovarian tumor diagnosis using deep convolutional neural networks and a denoising convolutional autoencoder</b><br>
 Yuyeon Jung, Taewan Kim, Mi-Ryung Han, Sejin Kim, Geunyoung Kim, Seungchul Lee & Youn Jin Choi <br>
 <pre>
 https://www.nature.com/articles/s41598-022-20653-2

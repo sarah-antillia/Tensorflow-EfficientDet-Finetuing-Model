@@ -36,8 +36,8 @@ sequence and genomic cluster data available.
 Tumor genomic clusters and patient data is provided in data.csv file.
 </p>
 <br>
-<h2>2. Download Datataset</h2>
-If you would like to train and evalute BrainTumor EfficientDet Model by yourself,
+<h2>2. Download Dataset</h2>
+If you would like to train and evaluate BrainTumor EfficientDet Model by yourself,
 please download <b>TFRecord</b> dataset <b>BrainTumor</b> train and valid dataset 
 from the following Google drive.<br>
 

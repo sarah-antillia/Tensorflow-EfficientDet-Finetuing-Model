@@ -45,8 +45,8 @@ CC BY-NC-SA 4.0
 
 </pre>
 
-<h2>2. Download Datataset</h2>
-If you would like to train and evalute Multiple-Myeloma EfficientDet Model by yourself,
+<h2>2. Download Dataset</h2>
+If you would like to train and evaluate Multiple-Myeloma EfficientDet Model by yourself,
 please download <b>TFRecord</b> dataset <b>Multiple-Myeloma</b> train and valid dataset 
 from the following Google drive.<br>
 

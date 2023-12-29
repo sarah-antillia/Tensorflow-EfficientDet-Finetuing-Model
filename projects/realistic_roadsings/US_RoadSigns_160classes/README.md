@@ -16,7 +16,7 @@ Please put the downloaded train and valid dataset in
 <h3>2. Train RoadSign Model</h3>
 Please move to <b>US_RoadSigns_160classes</b> directory,
 and run the following bat file to train RoadSigns Model by using the train and valid tfrecords.<br>
-Please note that we have used the following <b>autoaugmentation_policy</b> to improve object dection accuray(f-value, map, mar) of this model 
+Please note that we have used the following <b>autoaugmentation_policy</b> to improve object detection accuracy(f-value, map, mar) of this model 
 <pre>
 autoaugment_policy=v1
 </pre> 
