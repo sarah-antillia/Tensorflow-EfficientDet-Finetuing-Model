@@ -81,6 +81,9 @@ We have added the following python scripts to use Tensorflow-EfficientDet-Finetu
 <a href="./efficientdet/COCOMetricsWriter.py">COCOMetricsWriter.py</a>
 </li>
 <li>
+<a href="./efficientdet/ModelInspector.py">ModelInspector.py</a>
+</li>
+<li>
 <a href="./efficientdet/ModelTrainer.py">ModelTrainer.py</a>
 </li>
 <li>
