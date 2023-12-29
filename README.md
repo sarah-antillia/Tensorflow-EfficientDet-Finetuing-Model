@@ -40,7 +40,7 @@ Please create a working folder "c:\efficientdet_finetuning" for your repository,
 <h3>2.2 Clone repository</h3>
 Please clone Tensorflow-EfficientDet-Finetuning-Model.git in the working folder <b>c:\finetuning</b>.<br>
 <pre>
->git clone https://github.com/atlan-antillia/Tensorflow-EfficientDet-Finetuning-Model.git<br>
+>git clone https://github.com/sarah-antillia/Tensorflow-EfficientDet-Finetuing-Model.git<br>
 </pre>
 You can see the following two top folder <b>efficientdet</b> and <b>projects</b> in  Tensorflow-EfficientDet-Finetuning-Model 
 of your working folder.<br>
