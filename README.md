@@ -16,7 +16,7 @@ Python 3.10.11
 <li>
 tensorflow 2.10.1
 </li>
-This is the last tensorflow 2 version to support GPU on Windows OS.If you would like the latest tensorflow (2.14.1 or later version) 
+This is the last tensorflow 2 version to support GPU on Windows OS. If you would like to use the latest tensorflow (2.14.1 or later version) 
 which supports GPU, you have to use Windows11/WSL2 or Linux.<br>   
 
 <h3>1.2 Create a python virtualenv </h3>
