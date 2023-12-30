@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/sbilab/segpc2021dataset
  <b>efficientdet-d0 </b>to improve object detection accuracy,
   so please run the following command, to download that pretrained model.<br> 
 <pre>
-python DownloadCkptDownload.py
+python DownloadCkpt_d1.py
 </pre>
 
 3.2 Train Multiple-Myeloma Model
