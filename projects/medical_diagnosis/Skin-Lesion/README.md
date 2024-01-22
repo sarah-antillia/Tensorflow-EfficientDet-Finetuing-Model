@@ -167,7 +167,7 @@ Inference console output<br>
 <img src="./asset/test_outputs.png" width="1024" height="auto"><br>
 
 <br>
-<b><a href="./test_outputs/all_prediction.csv.csv">all_prediction.csv</a></b><br>
+<b><a href="./test_outputs/all_prediction.csv">all_prediction.csv</a></b><br>
 <br>
 
 <h3>
