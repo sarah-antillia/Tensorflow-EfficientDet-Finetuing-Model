@@ -37,7 +37,7 @@ ground truth segmentations (2000 binary mask images).
 <br>
 
 <br>
-<h2>2. Download Dataset</h2>
+<h3>2. Download Dataset</h3>
 If you would like to train and evaluate Skin-Lesion EfficientDet Model by yourself,
 please download <b></b> dataset <b>Skin-Lesion</b>
 from the following Google drive.<br>
@@ -46,7 +46,7 @@ from the following Google drive.<br>
 Skin-Lesion-EfficientDet-Dataset.zip</a>
 ,and expand it under this SKin-Lesion direcoty.<br>
 It contains the following datasets <br>
-<pre>
+
 <pre>
 Skin-Lesion-EfficientDet-Dataset
 ├─classes.txt
@@ -170,8 +170,6 @@ Inference console output<br>
 <b><a href="./test_outputs/all_prediction.csv.csv">all_prediction.csv</a></b><br>
 <br>
 
-<br>
-<br>
 <h3>
 7. Some Inference results of Skin-Lesion
 </h3>
