@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+mirrored_cju45rj7ln8980850a7821fov.jpg,GastrointestinalPolyp,0.89,53,260,203,458
+mirrored_cju45rj7ln8980850a7821fov.jpg,GastrointestinalPolyp,0.78,374,110,463,213

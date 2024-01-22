@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ISIC_0012266.jpg,Skin-Lesion,0.51,115,127,352,351

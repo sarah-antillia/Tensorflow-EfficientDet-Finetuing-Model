@@ -1,6 +1,12 @@
 <h2>
-Tensorflow-EfficientDet-Finetuning-Model (Updated: 2023/12/31)
+Tensorflow-EfficientDet-Finetuning-Model (Updated: 2024/01/22)
 </h2>
+<li>2024/01/22: Added <a href="./projects/medical_diagnosis/GastrointestinalPolyp">GastrointestinalPolyp</a></li>
+<li>2024/01/22: Added <a href="./projects/medical_diagnosis/Kidney-Tumor">Kidney-Tumor</a></li>
+<li>2024/01/22: Added <a href="./projects/medical_diagnosis/Liver-Tumor">Liver-Tumor</a></li>
+<li>2024/01/22: Added <a href="./projects/medical_diagnosis/Skin-Lesion">Skin-Lesion</a></li>
+
+<br>
 <h3>
 1. Development Environment
 </h3>

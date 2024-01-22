@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+flipped_10089_55.jpg,Kidney-Tumor,0.63,184,236,323,330

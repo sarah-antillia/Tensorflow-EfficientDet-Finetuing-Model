@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+mirrored_10057_43.jpg,Kidney-Tumor,0.85,318,259,383,305

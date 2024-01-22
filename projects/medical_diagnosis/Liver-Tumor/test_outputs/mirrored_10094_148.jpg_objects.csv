@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+mirrored_10094_148.jpg,Liver-Tumor,0.69,93,155,212,285

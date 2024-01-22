@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+resized_0_8_10089_62.jpg,Kidney-Tumor,0.92,323,240,384,301

@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+flipped_10019_148.jpg,Liver-Tumor,0.98,179,99,345,249
