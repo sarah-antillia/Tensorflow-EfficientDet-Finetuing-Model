@@ -1,9 +1,15 @@
 <h2>
-EfficientDet-Liver-Tumor (2024/01/22)
+EfficientDet-Liver-Tumor (Updated: 2024/01/24)
 </h2>
-This an experiment to dectet Liver-Tumor by EfficientDet-Liver-Tumor Model based on <a href="https://github.com/google/automl/tree/master/efficientdet">
+This an experiment to dectet Liver-Tumor by EfficientDet-Liver-Tumor Model based on 
+<a href="https://github.com/google/automl/tree/master/efficientdet">
 goole/automl/efficientdet</a>.
 <br>
+<li>2024/01/24: Modified the download link to the original small dataset  
+<a href="https://drive.google.com/file/d/12JUafeMhAwChEX4ofk33LFxZMvmcSOA8/view?usp=sharing">
+Liver-Tumor-EfficientDet-Dataset_small.zip</a>
+</li>
+<br> 
 
 <h3>1. Dataset Citation</h3>
 
@@ -20,11 +26,9 @@ https://www.kaggle.com/datasets/debeshjha1/kvasirseg
 If you would like to train and evaluate Liver-Tumor EfficientDet Model by yourself,
 please download <b>Liver-Tumor </b> dataset 
 from the googole drive 
-<a href="https://drive.google.com/file/d/1P0-fafL1Xs-59D3Flh-pYPmRPOqln32W/view?usp=sharing">
-Liver-Tumor-EfficientDet-Dataset.zip</a>
-
-Liver-Tumor-EfficientDet-Dataset.zip</a>
-,and expand it under this Liver-Tumor.<br>
+<a href="https://drive.google.com/file/d/12JUafeMhAwChEX4ofk33LFxZMvmcSOA8/view?usp=sharing">
+Liver-Tumor-EfficientDet-Dataset_small.zip</a>
+, and expand it under this Liver-Tumor.<br>
 It contains the following datasets <br>
 <pre>
 
@@ -37,6 +41,10 @@ Liver-Tumor-EfficientDet-Dataset
 └─valid
 </pre>
 
+You can also download the latest large dataset from the googole drive 
+<a href="https://drive.google.com/file/d/1P0-fafL1Xs-59D3Flh-pYPmRPOqln32W/view?usp=sharing">
+Liver-Tumor-EfficientDet-Dataset.zip</a>
+<br>
 
 <h3>3. Training Liver-Tumor Model</h3>
 Please move to <b>./projects/medial_diagnosis/Liver-Tumor</b>,
