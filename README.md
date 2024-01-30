@@ -1,10 +1,11 @@
 <h2>
-Tensorflow-EfficientDet-Finetuning-Model (Updated: 2024/01/22)
+Tensorflow-EfficientDet-Finetuning-Model (Updated: 2024/01/30)
 </h2>
 <li>2024/01/22: Added <a href="./projects/medical_diagnosis/GastrointestinalPolyp">GastrointestinalPolyp</a></li>
 <li>2024/01/22: Added <a href="./projects/medical_diagnosis/Kidney-Tumor">Kidney-Tumor</a></li>
 <li>2024/01/22: Added <a href="./projects/medical_diagnosis/Liver-Tumor">Liver-Tumor</a></li>
 <li>2024/01/22: Added <a href="./projects/medical_diagnosis/Skin-Lesion">Skin-Lesion</a></li>
+<li>2024/01/30: Added <a href="./projects/medical_diagnosis/Ovarian-Tumor-1Class">Ovarian-Tumor-1Class</a></li>
 
 <br>
 <h3>
@@ -58,8 +59,13 @@ Tensorflow-EfficientDet-Finetuning-Model
     ├─medical_diagnosis
     │  ├─Brain-Tumor
     │  ├─Breast-Cancer
+    │  ├─GastrointestinalPolyp
+    │  ├─Kidney-Tumor
+    │  ├─Liver-Tumor
     │  ├─MultipleMyeloma
-    │  └─Ovarian-Tumor
+    │  ├─Ovarian-Tumor
+    │  ├─Ovarian-Tumor-1Class
+    │  └─Skin-Lesion
     └─realistic_roadsings
         ├─CA_RoadSigns_78classes
         ├─DE-RoadSigns-108classes
@@ -117,11 +123,35 @@ to the real medical image-datasets in <b>medical_diagnosis</b>, and the virtual 
 <li>
 <a href="./projects/medical_diagnosis/Breast-Cancer">Breast-Cancer</a>
 </li> 
+
+<li>
+<a href="./projects/medical_diagnosis/GastrointestinalPolyp">GastrointestinalPolyp</a>
+</li> 
+
+<li>
+<a href="./projects/medical_diagnosis/Kidney-Tumor">Kidney-Tumor</a>
+</li> 
+
+
+<li>
+<a href="./projects/medical_diagnosis/Liver-Tumor">Liver-Tumor</a>
+</li> 
+
+
+
 <li>
 <a href="./projects/medical_diagnosis/MultipleMyeloma">MultipleMyeloma</a>
 </li> 
+
 <li>
 <a href="./projects/medical_diagnosis/Ovarian-Tumor">Ovarian-Tumor</a>
+</li> 
+<li>
+<a href="./projects/medical_diagnosis/Ovarian-Tumor-1Class">Ovarian-Tumor-1Class</a>
+</li> 
+
+<li>
+<a href="./projects/medical_diagnosis/Skin-Lesion">Skin-Lesion</a>
 </li> 
 
 
