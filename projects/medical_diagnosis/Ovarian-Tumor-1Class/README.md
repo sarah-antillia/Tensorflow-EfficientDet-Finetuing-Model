@@ -45,8 +45,8 @@ https://arxiv.org/pdf/2207.06799v3.pdf
 <h3>2. Download Dataset</h3>
 
 If you would like to train and evaluate Ovarian-Tumor-1Class EfficientDet Model by yourself, 
-please download the <b>TFRecord-OTUSI-20230420.zip</b>
-from <a href="https://drive.google.com/file/d/1D3q1iuOfdBWqG-Zw_ugQfX0mNwd_sD4e/view?usp=sharing"><b>Ovarian-Tumor-1Class-EfficientDet-Dataset.zip</b></a>
+please download the dataset from the google drive 
+ <a href="https://drive.google.com/file/d/1D3q1iuOfdBWqG-Zw_ugQfX0mNwd_sD4e/view?usp=sharing"><b>Ovarian-Tumor-1Class-EfficientDet-Dataset.zip</b></a>
 </p>
 
 <h3>3. Train Ovarian-Tumor Model by using the pretrained-model</h3>
