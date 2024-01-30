@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+flipped_339.jpg,Ovarian-Tumor,0.98,39,147,375,422

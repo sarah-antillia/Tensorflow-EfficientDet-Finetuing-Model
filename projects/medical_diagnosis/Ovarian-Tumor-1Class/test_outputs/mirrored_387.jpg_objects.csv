@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+mirrored_387.jpg,Ovarian-Tumor,0.94,111,156,295,323

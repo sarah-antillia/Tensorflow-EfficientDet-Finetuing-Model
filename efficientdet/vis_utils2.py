@@ -151,7 +151,17 @@ def draw_bounding_box_on_image_with_filters(filters,
   # If the total height of the display strings added to the top of the bounding
   # box exceeds the top of the image, stack the strings below the bounding box
   # instead of above.
-  display_str_heights = [font.getsize(ds)[1] for ds in display_str_list]
+    
+  # 2024/01/31
+  # DeprecationWarning: getsize is deprecated and will be removed in Pillow 10 (2023-07-01). 
+  # Use getbbox or getlength instead.
+  # (x, y, w, h) = font.getbbox('test')
+  try:
+    display_str_heights = [font.getsize(ds)[1] for ds in display_str_list]
+  except:
+    # The latest Pillow version
+    display_str_heights= [font.getbbox(ds)[3] for ds in display_str_list]
+
   # Each display_str has a top and bottom margin of 0.05x.
   total_display_str_height = (1 + 2 * 0.05) * sum(display_str_heights)
 
@@ -162,8 +172,12 @@ def draw_bounding_box_on_image_with_filters(filters,
 
   # Reverse list and print from bottom to top.
   for display_str in display_str_list[::-1]:
-    
-    text_width, text_height = font.getsize(display_str)
+    # 2024/01/31
+    try:
+      text_width, text_height = font.getsize(display_str)
+    except:
+      _, _, text_width, text_height = font.getbbox(display_str)
+
     margin = np.ceil(0.05 * text_height)
  
     #2020/07/22 atlan

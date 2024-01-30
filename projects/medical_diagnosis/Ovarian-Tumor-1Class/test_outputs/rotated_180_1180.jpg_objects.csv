@@ -1,0 +1,2 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+rotated_180_1180.jpg,Ovarian-Tumor,0.87,14,89,416,454
